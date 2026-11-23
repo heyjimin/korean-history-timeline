@@ -1,0 +1,2256 @@
+{
+  "era": "goryeo",
+  "events": [
+    {
+      "id": "goryeo-founding",
+      "title": "고려 건국",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 918
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "왕건이 궁예를 몰아내고 즉위해 나라 이름을 고려라 했다. 이듬해 도읍을 자신의 근거지인 송악(개경)으로 옮겼다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "later-three-unification"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "wang-geon"
+      ]
+    },
+    {
+      "id": "later-three-unification",
+      "title": "고려의 후삼국 통일",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 936
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "정치"
+      ],
+      "summary": "신라의 귀순(935)에 이어 고려가 일리천 전투에서 후백제를 무너뜨려 후삼국을 통일했다. 발해 유민까지 받아들여 민족의 재통일을 이루었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "illicheon",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "hunyo-10"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "wang-geon"
+      ]
+    },
+    {
+      "id": "hunyo-10",
+      "title": "태조, 훈요 10조",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 943
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "태조 왕건이 후대 왕들에게 남긴 정치 지침이다. 불교 숭상, 서경 중시, 북진 정책 등이 담겨 있다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "wang-geon"
+      ]
+    },
+    {
+      "id": "nobi-angeom",
+      "title": "광종, 노비안검법 실시",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 956
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "광종이 불법으로 노비가 된 사람을 조사해 양인으로 되돌렸다. 호족의 경제·군사 기반을 약화시켜 왕권을 강화하려는 정책이었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gwageo"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gwangjong"
+      ]
+    },
+    {
+      "id": "gwageo",
+      "title": "과거제 실시",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 958
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "제도"
+      ],
+      "summary": "광종이 후주에서 귀화한 쌍기의 건의로 과거 제도를 처음 실시했다. 유교적 학식을 갖춘 신진 인재를 등용해 호족 세력을 견제했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gwangjong"
+      ]
+    },
+    {
+      "id": "seongjong-reforms",
+      "title": "성종의 체제 정비",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 982
+        },
+        "end": {
+          "year": 983
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "성종이 최승로의 시무 28조를 받아들여 유교 정치 이념을 확립했다. 2성 6부의 중앙 관제를 마련하고, 12목을 설치해 처음으로 지방관을 파견했다(983).",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-seungno"
+      ]
+    },
+    {
+      "id": "khitan-invasions",
+      "title": "거란의 침입",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 993
+        },
+        "end": {
+          "year": 1019
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "송과 친선하고 거란을 배척한 고려에 거란이 세 차례 쳐들어왔다. 서희의 외교 담판, 강감찬의 귀주 대첩으로 물리쳤다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "cheolli-jangseong"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "seohui-negotiation",
+      "title": "서희의 외교 담판 (거란 1차 침입)",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 993
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "외교",
+        "전쟁"
+      ],
+      "summary": "거란의 소손녕이 쳐들어오자 서희가 담판을 벌여 고려가 고구려의 후계자임을 내세웠다. 거란과 교류하기로 약속하는 대신 압록강 동쪽의 강동 6주를 얻었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gangdong-6ju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "khitan-invasions"
+        },
+        {
+          "type": "followed_by",
+          "target": "khitan-2"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "seohui"
+      ]
+    },
+    {
+      "id": "khitan-2",
+      "title": "거란 2차 침입",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1010
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "강조의 정변을 구실로 거란 성종이 쳐들어와 개경이 함락되고 현종이 나주까지 피란했다. 양규 등의 활약으로 거란군이 물러갔다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        },
+        {
+          "place": "naju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "khitan-invasions"
+        },
+        {
+          "type": "followed_by",
+          "target": "gwiju-battle"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gwiju-battle",
+      "title": "귀주 대첩 (거란 3차 침입)",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1019
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "강동 6주 반환을 요구하며 쳐들어온 소배압의 거란군을 강감찬이 귀주에서 크게 물리쳤다. 이후 고려·송·거란 사이에 세력 균형이 이루어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gwiju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "khitan-invasions"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gang-gamchan"
+      ]
+    },
+    {
+      "id": "cheolli-jangseong",
+      "title": "천리장성 축조",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1033
+        },
+        "end": {
+          "year": 1044
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "거란과 여진의 침입에 대비해 압록강 어귀에서 동해안 도련포까지 천리장성을 쌓았다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "byeolmuban",
+      "title": "윤관, 별무반 편성과 동북 9성 축조",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1104
+        },
+        "end": {
+          "year": 1107
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "여진에 패한 뒤 윤관의 건의로 기병 중심의 별무반을 편성했다. 1107년 여진을 몰아내고 동북 9성을 쌓았으나 1109년 여진에 돌려주었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "dongbuk-9seong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yun-gwan"
+      ]
+    },
+    {
+      "id": "yi-jagyeom",
+      "title": "이자겸의 난",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1126
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "외척 이자겸이 척준경과 함께 왕위를 넘보며 난을 일으켰다. 진압되었으나 궁궐이 불타고 왕권이 크게 흔들렸다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "myocheong"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yi-jagyeom"
+      ]
+    },
+    {
+      "id": "myocheong",
+      "title": "묘청의 서경 천도 운동",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1135
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "묘청 등 서경 세력이 서경 천도와 금 정벌, 칭제 건원을 주장하다 받아들여지지 않자 난을 일으켰다. 김부식이 이끄는 개경 세력이 1년 만에 진압했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "pyongyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "samguk-sagi",
+          "note": "김부식이 진압을 주도"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "myocheong",
+        "kim-busik"
+      ]
+    },
+    {
+      "id": "samguk-sagi",
+      "title": "『삼국사기』 편찬",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1145
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "문화"
+      ],
+      "summary": "김부식 등이 왕명으로 편찬한 현존 최고(最古)의 역사서다. 유교적 합리주의 사관에 따라 기전체로 서술했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-busik"
+      ]
+    },
+    {
+      "id": "military-coup",
+      "title": "무신 정변",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1170
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "문신 중심 정치와 무신 차별에 불만을 품은 정중부, 이의방 등이 정변을 일으켜 문신을 죽이고 의종을 폐위했다. 이후 100년 동안 무신 정권이 이어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "mangi-mangsoi",
+          "note": "무신 정권 아래 사회 혼란"
+        },
+        {
+          "type": "followed_by",
+          "target": "choe-chungheon"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeong-jungbu"
+      ]
+    },
+    {
+      "id": "mangi-mangsoi",
+      "title": "망이·망소이의 난",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1176
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "공주 명학소의 망이와 망소이가 차별과 수탈에 맞서 봉기했다. 특수 행정 구역인 소(所)의 주민이 일으킨 대표적인 봉기다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "myeonghakso",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "jeonghye-gyeolsa",
+      "title": "지눌, 정혜결사 (수선사 결사)",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1190
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "지눌이 불교계의 타락을 비판하며 정혜결사를 시작했다. 선과 교학을 함께 닦는 정혜쌍수와 돈오점수를 내세워 조계종을 일으켰다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "songgwangsa",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jinul"
+      ]
+    },
+    {
+      "id": "choe-chungheon",
+      "title": "최충헌 집권 (최씨 무신 정권)",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1196
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "최충헌이 이의민을 제거하고 권력을 잡아 60여 년에 걸친 최씨 정권을 열었다. 교정도감을 최고 권력 기구로 삼았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "manjeok"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-chungheon"
+      ]
+    },
+    {
+      "id": "manjeok",
+      "title": "만적의 난",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1198
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "최충헌의 사노비 만적이 \"왕후장상의 씨가 따로 있겠는가\"라며 신분 해방을 꾀했으나 사전에 발각되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-chungheon",
+        "manjeok"
+      ]
+    },
+    {
+      "id": "sangjeong-gogeum",
+      "title": "『상정고금예문』 금속 활자 인쇄",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1234
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "이규보의 『동국이상국집』에 1234년 금속 활자로 『상정고금예문』을 찍었다는 기록이 남아 있다. 책은 전하지 않는다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "mongol-invasions",
+      "title": "몽골의 침입",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1231
+        },
+        "end": {
+          "year": 1259
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "몽골 사신 저고여 피살을 구실로 몽골이 쳐들어온 뒤 30여 년 동안 여러 차례 침략했다. 최씨 정권은 강화도로 도읍을 옮겨 장기 항전했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gaegyeong-return"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "ganghwa-move",
+      "title": "강화도 천도",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1232
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "전쟁"
+      ],
+      "summary": "최우가 몽골과의 장기 항전을 위해 도읍을 강화도로 옮겼다. 육지에 남은 백성들은 산성과 섬으로 들어가 싸웠다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "mongol-invasions"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-u"
+      ]
+    },
+    {
+      "id": "cheoinseong-battle",
+      "title": "처인성 전투",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1232
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "승려 김윤후가 이끄는 처인 부곡민이 몽골 장수 살리타를 사살하고 몽골군을 물리쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "cheoinseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "mongol-invasions"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-yunhu"
+      ]
+    },
+    {
+      "id": "tripitaka-koreana",
+      "title": "팔만대장경 조판",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1236
+        },
+        "end": {
+          "year": 1251
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "문화"
+      ],
+      "summary": "몽골의 침입으로 초조대장경이 불타자 부처의 힘으로 나라를 지키고자 다시 대장경을 새겼다. 현재 합천 해인사에 보관되어 있으며 유네스코 세계 기록 유산이다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "start"
+        },
+        {
+          "place": "haeinsa",
+          "role": "end"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "mongol-invasions"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gaegyeong-return",
+      "title": "개경 환도",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1270
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "무신 정권이 무너지고 고려 정부가 몽골과 강화해 개경으로 돌아왔다. 이후 고려는 원의 간섭을 받게 되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "sambyeolcho"
+        },
+        {
+          "type": "led_to",
+          "target": "yuan-interference"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "sambyeolcho",
+      "title": "삼별초의 항쟁",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1270
+        },
+        "end": {
+          "year": 1273
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "개경 환도에 반대한 삼별초가 배중손의 지휘로 강화도에서 진도, 제주도로 옮겨 가며 고려 정부와 몽골에 맞서 싸웠다. 1273년 여·몽 연합군에 진압되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "start"
+        },
+        {
+          "place": "jindo",
+          "role": "via"
+        },
+        {
+          "place": "jeju",
+          "role": "end"
+        }
+      ],
+      "route": true,
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "bae-jungson"
+      ]
+    },
+    {
+      "id": "yuan-interference",
+      "title": "원 간섭기",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1270
+        },
+        "end": {
+          "year": 1356
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "고려는 원의 부마국이 되어 왕실 호칭이 격하되고 정동행성, 쌍성총관부 등이 설치되었다. 공녀와 특산물을 바쳐야 했고, 권문세족이 성장했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gongmin-reforms"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "samguk-yusa",
+      "title": "『삼국유사』 편찬",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1281
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "승려 일연이 지은 역사서로, 불교사와 민간 설화를 많이 담았다. 단군 이야기를 처음으로 기록해 민족의 자주 의식을 보여 준다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gojoseon-founding",
+          "note": "단군 건국 이야기를 처음 기록"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "dangun",
+        "iryeon"
+      ]
+    },
+    {
+      "id": "gongmin-reforms",
+      "title": "공민왕의 반원 개혁",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1356
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "공민왕이 원의 쇠퇴를 틈타 친원 세력인 기철 일파를 숙청하고 정동행성 이문소를 없앴다. 쌍성총관부를 공격해 철령 이북의 땅을 되찾았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "jeonmin-byeonjeong"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gongmin"
+      ]
+    },
+    {
+      "id": "red-turbans",
+      "title": "홍건적의 침입",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1359
+        },
+        "end": {
+          "year": 1361
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "원의 혼란 속에 일어난 홍건적이 두 차례 쳐들어와 1361년에는 개경까지 함락되었다. 공민왕은 복주(안동)로 피란했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gongmin",
+        "choe-yeong"
+      ]
+    },
+    {
+      "id": "jeonmin-byeonjeong",
+      "title": "신돈, 전민변정도감 설치",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1366
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "공민왕이 승려 신돈을 등용해 전민변정도감을 두었다. 권문세족이 빼앗은 토지를 원래 주인에게 돌려주고 억울하게 노비가 된 사람을 풀어 주었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gongmin",
+        "sindon"
+      ]
+    },
+    {
+      "id": "jikji",
+      "title": "『직지심체요절』 인쇄",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1377
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "문화"
+      ],
+      "summary": "청주 흥덕사에서 금속 활자로 찍은 책으로, 현존하는 세계 최고(最古)의 금속 활자본이다. 프랑스 국립 도서관에 보관되어 있으며 유네스코 세계 기록 유산이다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "heungdeoksa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "sangjeong-gogeum",
+          "note": "고려의 금속 활자 인쇄"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "jinpo-battle",
+      "title": "진포 대첩",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1380
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "최무선이 화통도감에서 만든 화포로 금강 하구 진포에 쳐들어온 왜구의 배 500여 척을 불태웠다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "jinpo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "hwangsan-battle"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-museon"
+      ]
+    },
+    {
+      "id": "hwangsan-battle",
+      "title": "황산 대첩",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1380
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "이성계가 내륙으로 쳐들어온 왜구를 남원 황산에서 크게 물리쳤다. 이를 계기로 이성계가 신흥 무인 세력으로 떠올랐다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hwangsan-namwon",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yi-seonggye"
+      ]
+    },
+    {
+      "id": "wihwado-retreat",
+      "title": "위화도 회군",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1388
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "전쟁"
+      ],
+      "summary": "명이 철령 이북 땅을 요구하자 우왕과 최영이 요동 정벌을 추진했다. 이에 반대한 이성계가 위화도에서 군대를 돌려 개경을 점령하고 권력을 잡았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "wihwado",
+          "role": "start"
+        },
+        {
+          "place": "gaeseong",
+          "role": "end"
+        }
+      ],
+      "route": true,
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "gwajeonbeop"
+        },
+        {
+          "type": "related",
+          "target": "hwangsan-battle",
+          "note": "왜구 격퇴로 성장한 이성계"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-yeong",
+        "yi-seonggye"
+      ]
+    },
+    {
+      "id": "gwajeonbeop",
+      "title": "과전법 실시",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1391
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "경제",
+        "제도"
+      ],
+      "summary": "이성계와 신진 사대부가 권문세족의 대농장을 몰수하고 경기 지역의 토지에 한해 관리에게 수조권을 나누어 주는 과전법을 실시했다. 조선 건국의 경제적 기반이 되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "joseon-founding"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yi-seonggye"
+      ]
+    },
+    {
+      "id": "gyeonhwon-surrender",
+      "title": "견훤의 고려 귀순",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 935
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "아들 신검에 의해 금산사에 갇혔던 견훤이 탈출해 고려에 귀순했다. 이듬해 고려군과 함께 후백제를 공격했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "later-three-unification"
+        }
+      ],
+      "people": [
+        "gyeonhwon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "saimgwan-giin",
+      "title": "사심관 제도와 기인 제도",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 936
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "제도",
+        "정치"
+      ],
+      "summary": "태조가 지방 호족을 견제하려고 중앙 관리에게 출신 지역을 맡기는 사심관 제도와, 호족의 자제를 개경에 머물게 하는 기인 제도를 두었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "silla-surrender",
+          "note": "경순왕을 경주 사심관으로 삼음"
+        }
+      ],
+      "people": [
+        "wang-geon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gongbok",
+      "title": "광종, 백관의 공복 제정",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 960
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "제도"
+      ],
+      "summary": "광종이 관리의 등급에 따라 관복의 색을 자색, 단색, 비색, 녹색으로 정해 위계질서를 세웠다. 칭제 건원으로 왕권을 높였다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwageo"
+        }
+      ],
+      "people": [
+        "gwangjong"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "jeonsigwa",
+      "title": "전시과 실시",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 976
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "경제",
+        "제도"
+      ],
+      "summary": "관리에게 관직 복무의 대가로 토지(전지)와 땔감을 얻을 땅(시지)의 수조권을 나누어 주었다. 경종 때 시정 전시과로 시작해 목종(998), 문종(1076) 때 고쳐졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwajeonbeop",
+          "note": "고려 말 토지 제도 개혁"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gukjagam",
+      "title": "국자감 설치",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 992
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "제도",
+        "문화"
+      ],
+      "summary": "성종이 개경에 최고 교육 기관인 국자감을 세워 유학을 가르쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "seongjong-reforms"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "chojo-tripitaka",
+      "title": "초조대장경 조판 시작",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1011
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "거란이 침입하자 부처의 힘으로 물리치려고 대장경을 새기기 시작했다. 몽골 침입 때 불에 타 다시 새긴 것이 팔만대장경이다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "khitan-2"
+        },
+        {
+          "type": "followed_by",
+          "target": "tripitaka-koreana"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "choe-chung-school",
+      "title": "최충, 9재 학당 설립",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1055
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "최충이 사학인 9재 학당(문헌공도)을 세운 뒤 사학 12도가 번성해 관학이 위축되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [
+        "choe-chung"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "uicheon-cheontae",
+      "title": "의천, 천태종 개창",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1097
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "문종의 아들 의천이 교종을 중심으로 선종을 통합하려고 국청사를 중심으로 천태종을 열었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "jeonghye-gyeolsa",
+          "note": "불교 통합 운동의 흐름"
+        }
+      ],
+      "people": [
+        "uicheon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "haedong-tongbo",
+      "title": "해동통보 주조",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1102
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "숙종 때 의천의 건의로 주전도감을 두고 해동통보 같은 동전을 만들었다. 그러나 자급자족적 경제 탓에 널리 쓰이지 못했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [
+        "uicheon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "jin-sadae",
+      "title": "금에 대한 사대 수용",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1126
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "여진이 세운 금이 군신 관계를 요구하자 이자겸 정권이 이를 받아들였다. 묘청 세력이 금 정벌을 주장한 배경이 되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "yi-jagyeom"
+        },
+        {
+          "type": "led_to",
+          "target": "myocheong"
+        }
+      ],
+      "people": [
+        "yi-jagyeom"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "sangam-celadon",
+      "title": "상감 청자의 발달",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1150
+        },
+        "end": {
+          "year": 1250
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "그릇 표면을 파내고 다른 흙을 메워 무늬를 내는 상감 기법이 고려에서 독자적으로 발달했다. 비취색의 상감 청자는 고려 공예의 대표작이다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gimsami-hyosim",
+      "title": "김사미·효심의 난",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1193
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "운문(청도)의 김사미와 초전(울산)의 효심이 무신 정권의 수탈에 맞서 봉기했다. 신라 부흥을 내건 농민 봉기였다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "mangi-mangsoi",
+          "note": "무신 집권기 농민·천민 봉기"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gyojeong-dogam",
+      "title": "교정도감 설치",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1209
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "최충헌이 반대 세력을 감시하고 인사와 세금을 다루는 교정도감을 두어 최씨 정권의 최고 권력 기구로 삼았다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "choe-chungheon",
+          "note": "최씨 정권의 권력 기구"
+        }
+      ],
+      "people": [
+        "choe-chungheon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "jeongbang",
+      "title": "정방 설치",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1225
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "최우가 자기 집에 정방을 두고 관리의 인사권을 장악했다. 문신을 등용하는 서방도 두었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "choe-chungheon"
+        }
+      ],
+      "people": [
+        "choe-u"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "japan-expeditions",
+      "title": "여·몽 연합군의 일본 원정",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1274
+        },
+        "end": {
+          "year": 1281
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "원의 강요로 고려가 배와 군사를 내어 두 차례 일본 원정에 나섰으나 태풍 등으로 실패했다. 고려는 큰 인적·물적 부담을 졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "masan",
+          "role": "start"
+        },
+        {
+          "place": "hakata",
+          "role": "end"
+        }
+      ],
+      "route": true,
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "yuan-interference"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "mokhwa",
+      "title": "문익점, 목화씨 전래",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1363
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "원에 사신으로 갔던 문익점이 목화씨를 가져와 장인 정천익과 함께 재배에 성공했다. 이후 무명옷이 널리 보급되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "sancheong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [
+        "mun-ikjeom"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "hwatong-dogam",
+      "title": "화통도감 설치",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1377
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "제도",
+        "전쟁"
+      ],
+      "summary": "최무선의 건의로 화약과 화기를 만드는 화통도감을 두었다. 이곳에서 만든 화포로 진포에서 왜구를 물리쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "jinpo-battle"
+        }
+      ],
+      "people": [
+        "choe-museon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "jeong-mongju-death",
+      "title": "정몽주 피살",
+      "era": "goryeo",
+      "date": {
+        "start": {
+          "year": 1392,
+          "month": 4,
+          "day": 4
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "고려를 지키려던 온건 개혁파 정몽주가 이방원 일파에게 선죽교에서 죽임을 당했다. 이후 이성계 세력이 조선을 세웠다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "joseon-founding"
+        }
+      ],
+      "people": [
+        "jeong-mongju",
+        "taejong"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3001 @@
+{
+  "era": "modern-era",
+  "events": [
+    {
+      "id": "heungseon-regency",
+      "title": "흥선 대원군 집권",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1863,
+          "month": 12
+        },
+        "end": {
+          "year": 1873,
+          "month": 11
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "고종이 12세에 즉위하자 아버지 흥선 대원군이 실권을 잡았다. 세도 정치를 무너뜨리고 왕권 강화와 민생 안정을 위한 개혁을 추진하는 한편, 통상 수교 거부 정책을 폈다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gyeongbokgung-rebuild"
+        },
+        {
+          "type": "followed_by",
+          "target": "seowon-abolition"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ]
+    },
+    {
+      "id": "gyeongbokgung-rebuild",
+      "title": "경복궁 중건",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1865
+        },
+        "end": {
+          "year": 1868
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "경제"
+      ],
+      "summary": "임진왜란 때 불탄 경복궁을 다시 지어 왕실의 권위를 높이려 했다. 원납전을 거두고 당백전을 발행해 물가가 오르고 백성의 원성을 샀다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ]
+    },
+    {
+      "id": "byeongin-bakhae",
+      "title": "병인박해",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1866
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "흥선 대원군이 프랑스 선교사 9명과 수천 명의 천주교도를 처형했다. 이는 병인양요의 구실이 되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "byeongin-yangyo"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ]
+    },
+    {
+      "id": "general-sherman",
+      "title": "제너럴셔먼호 사건",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1866,
+          "month": 7
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "미국 상선 제너럴셔먼호가 대동강을 거슬러 올라와 통상을 요구하며 행패를 부리자 평양 관민이 배를 불태웠다. 신미양요의 구실이 되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "sinmi-yangyo"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "byeongin-yangyo",
+      "title": "병인양요",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1866,
+          "month": 9
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "병인박해를 구실로 프랑스 함대가 강화도를 침략했다. 한성근(문수산성)과 양헌수(정족산성)가 물리쳤으나, 프랑스군이 물러가며 외규장각 도서를 약탈했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "oppert"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon",
+        "yang-heonsu"
+      ]
+    },
+    {
+      "id": "oppert",
+      "title": "오페르트 도굴 미수 사건",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1868,
+          "month": 4
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "독일 상인 오페르트가 통상을 요구하다 거절당하자 흥선 대원군의 아버지 남연군의 묘를 도굴하려 했다. 서양에 대한 반감이 더욱 커졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "deoksan",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ]
+    },
+    {
+      "id": "sinmi-yangyo",
+      "title": "신미양요",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1871,
+          "month": 4
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "제너럴셔먼호 사건을 구실로 미국 함대가 강화도를 침략했다. 어재연이 광성보에서 결사 항전하다 전사했고, 미군은 통상을 이루지 못하고 물러갔다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "cheokhwabi"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon",
+        "eo-jaeyeon"
+      ]
+    },
+    {
+      "id": "cheokhwabi",
+      "title": "척화비 건립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1871,
+          "month": 4
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "신미양요 뒤 흥선 대원군이 서양과의 수교를 거부하는 뜻을 새긴 척화비를 전국 곳곳에 세웠다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ]
+    },
+    {
+      "id": "seowon-abolition",
+      "title": "서원 정리",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1871
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "흥선 대원군이 붕당의 근거지이자 면세 특권으로 국가 재정을 좀먹던 서원을 47개만 남기고 없앴다. 양반 유생의 큰 반발을 샀다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ]
+    },
+    {
+      "id": "unyo-incident",
+      "title": "운요호 사건",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1875,
+          "month": 8
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "일본 군함 운요호가 강화도 초지진에 접근해 조선 수비대와 충돌을 일으켰다. 일본은 이를 구실로 개항을 강요했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "ganghwa-treaty"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "ganghwa-treaty",
+      "title": "강화도 조약 (조·일 수호 조규)",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1876,
+          "month": 2,
+          "day": 3
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "외교"
+      ],
+      "summary": "조선이 일본과 맺은 최초의 근대적 조약이자 불평등 조약이다. 부산 외 2개 항구 개항, 해안 측량권, 영사 재판권(치외 법권)을 인정했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "susinsa"
+        },
+        {
+          "type": "followed_by",
+          "target": "us-treaty"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong"
+      ]
+    },
+    {
+      "id": "susinsa",
+      "title": "수신사 파견",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1876,
+          "month": 4
+        },
+        "end": {
+          "year": 1880
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "강화도 조약 뒤 일본에 수신사를 보냈다. 2차 수신사 김홍집(1880)이 가져온 『조선책략』은 개화 정책 추진과 위정척사 운동에 영향을 주었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "tokyo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "gaehwa-policy"
+        },
+        {
+          "type": "led_to",
+          "target": "yeongnam-maninso"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-hongjip"
+      ]
+    },
+    {
+      "id": "gaehwa-policy",
+      "title": "개화 정책 추진 (통리기무아문·별기군·조사 시찰단)",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1880
+        },
+        "end": {
+          "year": 1881
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "개화 정책을 총괄하는 통리기무아문을 설치하고(1880) 신식 군대 별기군을 창설했다. 일본에 조사 시찰단(신사 유람단), 청에 영선사를 보내 근대 문물을 살폈다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "imo-gunran",
+          "note": "구식 군인 차별"
+        },
+        {
+          "type": "related",
+          "target": "yeongnam-maninso",
+          "note": "개화 정책과 위정척사 운동의 대립"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "yeongnam-maninso",
+      "title": "영남 만인소",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1881
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "이만손 등 영남 유생들이 『조선책략』 유포에 반발해 집단 상소를 올렸다. 위정척사 운동이 개화 반대 운동으로 확대되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "us-treaty",
+      "title": "조·미 수호 통상 조약",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1882,
+          "month": 4,
+          "day": 6
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "외교"
+      ],
+      "summary": "청의 알선으로 서양 국가와 맺은 최초의 조약이다. 거중 조정과 최혜국 대우 조항이 들어 있었으며, 치외 법권 등을 인정한 불평등 조약이었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "incheon",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "imo-gunran",
+      "title": "임오군란",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1882,
+          "month": 6,
+          "day": 9
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "신식 군대와의 차별, 밀린 급료에 불만을 품은 구식 군인들이 봉기해 일본 공사관을 습격했다. 청군이 개입해 진압하고 흥선 대원군을 청으로 압송했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "jemulpo-treaty"
+        },
+        {
+          "type": "led_to",
+          "target": "sangmin-trade-regulations"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "heungseon",
+        "empress-myeongseong"
+      ]
+    },
+    {
+      "id": "jemulpo-treaty",
+      "title": "제물포 조약",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1882,
+          "month": 7
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "임오군란 뒤 일본과 맺은 조약으로, 일본 공사관 경비를 위해 일본군의 주둔을 허용하고 배상금을 지불했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "incheon",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "sangmin-trade-regulations",
+      "title": "조·청 상민 수륙 무역 장정",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1882,
+          "month": 8
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교",
+        "경제"
+      ],
+      "summary": "청이 조선을 속국으로 규정하고 청 상인의 내지 통상권을 얻어 낸 무역 장정이다. 청의 내정 간섭이 심해졌다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "gapsin-coup",
+          "note": "청의 간섭에 대한 급진 개화파의 반발"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gapsin-coup",
+      "title": "갑신정변",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1884,
+          "month": 10,
+          "day": 17
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "김옥균, 박영효 등 급진 개화파가 우정총국 개국 축하연을 틈타 정변을 일으켰다. 개혁 정강을 발표했으나 청군의 개입으로 3일 만에 실패했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "tianjin-convention"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-okgyun",
+        "bak-yeonghyo",
+        "seo-jaepil"
+      ]
+    },
+    {
+      "id": "tianjin-convention",
+      "title": "톈진 조약",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1885,
+          "month": 3
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "갑신정변 뒤 청과 일본이 맺은 조약으로, 양국 군대가 조선에서 동시에 철수하고 앞으로 파병할 때 서로 알리기로 했다. 청·일 전쟁 때 일본 파병의 구실이 되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "sino-japanese-war"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "geomundo-occupation",
+      "title": "거문도 사건",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1885,
+          "month": 3
+        },
+        "end": {
+          "year": 1887,
+          "month": 1
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "러시아의 남하를 막는다는 구실로 영국이 거문도를 불법 점령했다. 이를 계기로 유길준 등이 한반도 중립화론을 제기했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "geomundo",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yu-giljun"
+      ]
+    },
+    {
+      "id": "bangongnyeong",
+      "title": "방곡령 선포",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1889
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "외교"
+      ],
+      "summary": "일본으로 곡물이 대량 유출되자 함경도 관찰사 조병식이 방곡령을 내렸다. 일본의 항의로 철회하고 배상금을 물었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "donghak-revolution",
+      "title": "동학 농민 운동",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "사회",
+        "전쟁"
+      ],
+      "summary": "고부 군수 조병갑의 수탈에 맞선 봉기에서 시작해 전봉준이 이끄는 농민군이 반봉건·반외세를 내걸고 일어섰다. 전주성을 점령하고 집강소를 설치했으나 우금치 전투에서 일본군에 패했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "sino-japanese-war",
+          "note": "청·일 양국 군대 파병"
+        },
+        {
+          "type": "led_to",
+          "target": "gabo-reforms",
+          "note": "농민군의 개혁 요구가 일부 반영"
+        },
+        {
+          "type": "related",
+          "target": "imsul-uprising",
+          "note": "19세기 농민 봉기의 흐름"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeon-bongjun",
+        "choe-sihyeong"
+      ]
+    },
+    {
+      "id": "gobu-uprising",
+      "title": "고부 농민 봉기",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 1,
+          "day": 10
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "고부 군수 조병갑의 횡포에 맞서 전봉준이 농민들과 함께 고부 관아를 점령했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gobu",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "donghak-revolution"
+        },
+        {
+          "type": "followed_by",
+          "target": "hwangtohyeon-battle"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeon-bongjun"
+      ]
+    },
+    {
+      "id": "hwangtohyeon-battle",
+      "title": "황토현 전투 (1차 봉기)",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 4,
+          "day": 7
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "안핵사 이용태의 탄압에 맞서 다시 일어난 농민군이 백산에서 4대 강령을 발표하고 황토현에서 관군을 크게 이겼다. 이어 전주성을 점령했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hwangtohyeon",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "donghak-revolution"
+        },
+        {
+          "type": "followed_by",
+          "target": "jeonju-truce"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeon-bongjun"
+      ]
+    },
+    {
+      "id": "jeonju-truce",
+      "title": "전주 화약과 집강소 설치",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 5
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "청·일 군대가 들어오자 농민군은 정부와 화약을 맺고 해산했다. 전라도 각지에 집강소를 설치해 폐정 개혁을 실천했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "jeonju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "donghak-revolution"
+        },
+        {
+          "type": "followed_by",
+          "target": "ugeumchi-battle"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeon-bongjun"
+      ]
+    },
+    {
+      "id": "ugeumchi-battle",
+      "title": "우금치 전투 (2차 봉기)",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 11
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "일본이 경복궁을 점령하자 농민군이 반외세를 내걸고 다시 일어났다. 남접과 북접이 연합해 서울로 향했으나 공주 우금치에서 일본군과 관군에 크게 패했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ugeumchi",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "donghak-revolution"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeon-bongjun",
+        "choe-sihyeong"
+      ]
+    },
+    {
+      "id": "sino-japanese-war",
+      "title": "청·일 전쟁",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 6
+        },
+        "end": {
+          "year": 1895,
+          "month": 3
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "동학 농민 운동을 계기로 조선에 들어온 청과 일본이 맞붙었다. 일본이 이겨 시모노세키 조약으로 청의 조선에 대한 종주권을 없애고 랴오둥반도와 타이완을 차지했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "shimonoseki",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "triple-intervention"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gabo-reforms",
+      "title": "갑오개혁",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 6
+        },
+        "end": {
+          "year": 1895,
+          "month": 7
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "일본이 경복궁을 점령한 가운데 군국기무처가 주도해 근대적 개혁을 추진했다. 과거제와 신분제를 폐지하고, 재정을 탁지아문으로 일원화했으며, 홍범 14조를 반포했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "hongbeom-14"
+        },
+        {
+          "type": "followed_by",
+          "target": "eulmi-reforms"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-hongjip",
+        "bak-yeonghyo",
+        "yu-giljun"
+      ]
+    },
+    {
+      "id": "hongbeom-14",
+      "title": "홍범 14조 반포",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1894,
+          "month": 12,
+          "day": 12
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "고종이 종묘에서 반포한 개혁 강령으로, 청에 대한 의존을 끊고 왕실과 국정 사무를 분리하는 등의 내용을 담았다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong"
+      ]
+    },
+    {
+      "id": "triple-intervention",
+      "title": "삼국 간섭",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1895,
+          "month": 4
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "러시아, 프랑스, 독일이 압력을 넣어 일본이 랴오둥반도를 청에 돌려주었다. 조선 정부는 러시아에 접근해 일본을 견제하려 했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "eulmi-incident"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "eulmi-incident",
+      "title": "을미사변",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1895,
+          "month": 8,
+          "day": 20
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일본 공사 미우라 고로가 지휘한 일본 낭인과 군인들이 경복궁에 침입해 명성 황후를 시해했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "eulmi-uibyeong"
+        },
+        {
+          "type": "led_to",
+          "target": "agwan-pacheon"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "empress-myeongseong"
+      ]
+    },
+    {
+      "id": "eulmi-reforms",
+      "title": "을미개혁 (단발령)",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1895,
+          "month": 8
+        },
+        "end": {
+          "year": 1896,
+          "month": 2
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "을미사변 뒤 친일 내각이 태양력 사용, 종두법 시행, 건양 연호 사용, 단발령 등을 추진했다. 단발령은 큰 반발을 불러왔다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "eulmi-uibyeong"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-hongjip"
+      ]
+    },
+    {
+      "id": "eulmi-uibyeong",
+      "title": "을미의병",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1895,
+          "month": 9
+        },
+        "end": {
+          "year": 1896
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "사회"
+      ],
+      "summary": "을미사변과 단발령에 반발해 유인석, 이소응 등 유생이 중심이 되어 의병을 일으켰다. 아관 파천 뒤 고종의 해산 권고로 대부분 해산했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "agwan-pacheon",
+      "title": "아관 파천",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1896,
+          "month": 2,
+          "day": 11
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "고종이 경복궁을 떠나 러시아 공사관으로 거처를 옮겼다. 친일 내각이 무너지고 러시아를 비롯한 열강이 철도·광산 등 이권을 차지했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "independence-club"
+        },
+        {
+          "type": "followed_by",
+          "target": "korean-empire"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong"
+      ]
+    },
+    {
+      "id": "independent-newspaper",
+      "title": "『독립신문』 창간",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1896,
+          "month": 4,
+          "day": 7
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "서재필이 정부의 지원을 받아 창간한 최초의 민간 신문이다. 한글판과 영문판을 함께 펴냈다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "independence-club"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "seo-jaepil"
+      ]
+    },
+    {
+      "id": "independence-club",
+      "title": "독립 협회 창립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1896,
+          "month": 7
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "서재필 등이 자주 국권, 자유 민권, 자강 개혁을 내걸고 창립했다. 독립문을 세우고 만민 공동회를 열었으며, 관민 공동회에서 헌의 6조를 결의했다. 1898년 정부에 의해 해산되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "manmin-gongdonghoe"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "seo-jaepil",
+        "yi-sangjae"
+      ]
+    },
+    {
+      "id": "korean-empire",
+      "title": "대한 제국 수립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1897,
+          "month": 10,
+          "day": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "고종이 경운궁으로 돌아온 뒤 환구단에서 황제로 즉위하고 국호를 대한 제국, 연호를 광무로 정했다. 구본신참을 내건 광무개혁을 추진했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "daehan-gukje"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong"
+      ]
+    },
+    {
+      "id": "manmin-gongdonghoe",
+      "title": "만민 공동회",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1898,
+          "month": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "독립 협회가 종로에서 연 민중 대회로, 러시아의 이권 침탈을 규탄했다. 10월에는 정부 대신도 참여한 관민 공동회에서 헌의 6조를 결의했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "daehan-gukje",
+      "title": "대한국 국제 반포",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1899,
+          "month": 8,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "대한 제국이 전제 군주정임을 밝힌 일종의 헌법이다. 황제가 군대 통수권, 입법권, 행정권 등 모든 권한을 가졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "russo-japanese-war",
+      "title": "러·일 전쟁",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1904,
+          "month": 2
+        },
+        "end": {
+          "year": 1905,
+          "month": 9
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "한반도와 만주를 둘러싸고 러시아와 일본이 벌인 전쟁이다. 일본이 승리해 포츠머스 조약으로 한국에 대한 독점적 지배권을 인정받았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "japan-korea-protocol"
+        },
+        {
+          "type": "led_to",
+          "target": "eulsa-treaty"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "japan-korea-protocol",
+      "title": "한·일 의정서와 제1차 한·일 협약",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1904,
+          "month": 2,
+          "day": 23
+        },
+        "end": {
+          "year": 1904,
+          "month": 8,
+          "day": 22
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "러·일 전쟁 중 일본이 한·일 의정서로 군사 요지를 마음대로 쓸 권리를 얻었다. 이어 제1차 한·일 협약으로 외교와 재정 분야에 일본이 추천한 고문을 두게 했다(고문 정치).",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "dokdo-annexation",
+      "title": "일본의 독도 불법 편입",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1905,
+          "month": 2,
+          "day": 22
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "러·일 전쟁 중 일본이 시마네현 고시로 독도를 자국 영토에 불법 편입했다. 대한 제국은 이미 1900년 칙령 제41호로 독도(석도)를 울도군 관할로 정해 두었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "dokdo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "usanguk-conquest",
+          "note": "울릉도·독도는 우산국 이래 우리 영토"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "eulsa-treaty",
+      "title": "을사늑약",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1905,
+          "month": 11,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교",
+        "정치"
+      ],
+      "summary": "일본이 군대를 동원해 강압적으로 맺은 조약으로, 대한 제국의 외교권을 빼앗고 통감부를 설치했다. 고종은 끝까지 비준하지 않았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "eulsa-uibyeong"
+        },
+        {
+          "type": "led_to",
+          "target": "hague-envoys"
+        },
+        {
+          "type": "followed_by",
+          "target": "residency-general"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "min-yeonghwan",
+        "jang-jiyeon",
+        "ito-hirobumi",
+        "yi-wanyong"
+      ]
+    },
+    {
+      "id": "residency-general",
+      "title": "통감부 설치",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1906,
+          "month": 2
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "을사늑약에 따라 서울에 통감부가 설치되고 이토 히로부미가 초대 통감이 되었다. 외교뿐 아니라 내정 전반에 간섭했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "ito-hirobumi"
+      ]
+    },
+    {
+      "id": "eulsa-uibyeong",
+      "title": "을사의병",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1905,
+          "month": 11
+        },
+        "end": {
+          "year": 1906
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "을사늑약에 반대해 민종식, 최익현 등이 의병을 일으켰다. 평민 출신 의병장 신돌석이 등장했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "jeongmi-uibyeong"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-ikhyeon",
+        "sin-dolseok"
+      ]
+    },
+    {
+      "id": "national-debt-redemption",
+      "title": "국채 보상 운동",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1907,
+          "month": 2
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "일본에 진 나랏빚 1,300만 원을 국민의 힘으로 갚자며 대구에서 시작된 운동이다. 금연, 금주, 패물 기부 등으로 전국에 퍼졌으나 통감부의 탄압으로 좌절되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "daegu",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yang-gitak"
+      ]
+    },
+    {
+      "id": "sinminhoe",
+      "title": "신민회 결성",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1907,
+          "month": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "안창호, 양기탁 등이 비밀 결사로 조직했다. 공화정을 목표로 대성 학교·오산 학교를 세우고, 국외에 독립운동 기지(서간도 삼원보)를 건설했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "case-105"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "an-changho",
+        "yang-gitak",
+        "sin-chaeho"
+      ]
+    },
+    {
+      "id": "hague-envoys",
+      "title": "헤이그 특사 파견",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1907,
+          "month": 6
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교"
+      ],
+      "summary": "고종이 을사늑약의 부당함을 알리려고 이준, 이상설, 이위종을 만국 평화 회의에 보냈으나 일본의 방해로 회의장에 들어가지 못했다. 일본은 이를 구실로 고종을 강제로 물러나게 했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hague",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "jeongmi-treaty"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong",
+        "yi-jun",
+        "yi-sangseol"
+      ]
+    },
+    {
+      "id": "jeongmi-treaty",
+      "title": "한·일 신협약 (정미 7조약)과 군대 해산",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1907,
+          "month": 7,
+          "day": 24
+        },
+        "end": {
+          "year": 1907,
+          "month": 8,
+          "day": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "고종 강제 퇴위 뒤 일본이 각 부에 일본인 차관을 두는 차관 정치를 시작했다. 이어 부속 밀약으로 대한 제국 군대를 해산했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "jeongmi-uibyeong"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong",
+        "yi-wanyong"
+      ]
+    },
+    {
+      "id": "jeongmi-uibyeong",
+      "title": "정미의병과 서울 진공 작전",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1907,
+          "month": 8
+        },
+        "end": {
+          "year": 1908
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "해산된 군인들이 의병에 합류해 의병 전쟁으로 확대되었다. 13도 창의군을 결성해 서울 진공 작전을 펼쳤으나(1908.1) 실패했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gando-convention",
+      "title": "간도 협약",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1909,
+          "month": 9,
+          "day": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "일본이 남만주 철도 부설권을 얻는 대가로 간도를 청의 영토로 인정했다. 대한 제국의 외교권이 없는 상태에서 맺어진 조약이다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gando",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "baekdusan-jeonggyebi"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "ahn-junggeun",
+      "title": "안중근 의거",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1909,
+          "month": 10,
+          "day": 26
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "안중근이 하얼빈역에서 초대 통감 이토 히로부미를 사살했다. 뤼순 감옥에서 「동양 평화론」을 쓰다가 1910년 순국했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "harbin",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "ahn-junggeun",
+        "ito-hirobumi"
+      ]
+    },
+    {
+      "id": "annexation",
+      "title": "국권 피탈 (경술국치)",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1910,
+          "month": 8,
+          "day": 29
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일본이 이완용 내각과 이른바 한국 병합 조약을 맺어 대한 제국의 국권을 빼앗았다. 이로써 35년에 걸친 일제의 식민 지배가 시작되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "governor-general"
+        },
+        {
+          "type": "led_to",
+          "target": "march-first",
+          "note": "식민 지배에 맞선 민족 운동"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yi-wanyong"
+      ]
+    },
+    {
+      "id": "hopo",
+      "title": "호포제 실시",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1871
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "제도"
+      ],
+      "summary": "흥선 대원군이 군포를 집집마다 거두는 호포제로 바꾸어 양반도 군포를 내게 했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "heungseon-regency"
+        }
+      ],
+      "people": [
+        "heungseon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gojong-direct-rule",
+      "title": "고종의 친정과 흥선 대원군 하야",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1873,
+          "month": 11
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "최익현의 탄핵 상소를 계기로 흥선 대원군이 물러나고 고종이 직접 나라를 다스렸다. 민씨 세력이 정권을 잡고 통상 개화 쪽으로 정책이 바뀌었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "unyo-incident"
+        }
+      ],
+      "people": [
+        "heungseon",
+        "gojong",
+        "empress-myeongseong",
+        "choe-ikhyeon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "choe-ikhyeon-memorial",
+      "title": "최익현의 개항 반대 상소",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1876
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "최익현이 일본은 서양 오랑캐와 같다는 왜양일체론을 내세우며 강화도 조약 체결에 반대했다. 위정척사 운동의 흐름을 보여 준다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hanyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "ganghwa-treaty"
+        },
+        {
+          "type": "related",
+          "target": "yeongnam-maninso",
+          "note": "위정척사 운동"
+        }
+      ],
+      "people": [
+        "choe-ikhyeon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "hanseong-sunbo",
+      "title": "『한성순보』 창간",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1883,
+          "month": 10
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "박문국에서 펴낸 최초의 근대 신문으로, 열흘에 한 번 순한문으로 발행했다. 정부의 개화 정책을 알렸다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "independent-newspaper"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "wonsan-haksa",
+      "title": "원산 학사 설립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1883
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "원산 주민들이 돈을 모아 세운 최초의 근대식 사립 학교다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "wonsan",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gwanghyewon",
+      "title": "광혜원(제중원) 설립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1885,
+          "month": 2
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "미국인 선교사 알렌의 건의로 세운 최초의 근대식 국립 병원으로, 곧 제중원으로 이름을 바꾸었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "yugyeong-gongwon",
+      "title": "육영 공원 설립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1886
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "정부가 세운 근대식 관립 학교로, 미국인 교사를 초빙해 양반 자제에게 영어와 근대 학문을 가르쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "yangjeon-jigye",
+      "title": "광무개혁의 양전 사업과 지계 발급",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1898
+        },
+        "end": {
+          "year": 1904
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "제도"
+      ],
+      "summary": "대한 제국이 토지를 측량하고 근대적 토지 소유 증명서인 지계를 발급했다. 러·일 전쟁으로 중단되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "korean-empire",
+          "note": "광무개혁"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "hwangseong-sinmun",
+      "title": "『황성신문』 창간",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1898,
+          "month": 9,
+          "day": 5
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "국한문 혼용 신문으로, 1905년 을사늑약 때 장지연의 「시일야방성대곡」을 실었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "eulsa-treaty",
+          "note": "시일야방성대곡 게재"
+        }
+      ],
+      "people": [
+        "jang-jiyeon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "seoul-tram",
+      "title": "서울 전차 개통",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1899,
+          "month": 5,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "한성 전기 회사가 서대문에서 청량리까지 전차를 운행했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gyeongin-railway",
+      "title": "경인선 개통",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1899,
+          "month": 9,
+          "day": 18
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "노량진과 제물포를 잇는 우리나라 최초의 철도가 개통되었다. 이듬해 한강 철교가 놓여 서울까지 이어졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "start"
+        },
+        {
+          "place": "incheon",
+          "role": "end"
+        }
+      ],
+      "route": true,
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "daehan-maeil-sinbo",
+      "title": "『대한매일신보』 창간",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1904,
+          "month": 7,
+          "day": 18
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화",
+        "정치"
+      ],
+      "summary": "영국인 베델과 양기탁이 창간한 신문으로, 일본의 침략을 강하게 비판하고 국채 보상 운동을 지원했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "national-debt-redemption"
+        }
+      ],
+      "people": [
+        "yang-gitak"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "boanhoe",
+      "title": "보안회의 황무지 개간권 반대 운동",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1904
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일본이 황무지 개간권을 요구하자 보안회가 반대 운동을 벌여 요구를 철회시켰다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "japan-korea-protocol"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "jaganghoe",
+      "title": "대한 자강회 결성",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1906
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "교육과 산업을 일으켜 국권을 회복하자는 애국 계몽 단체로, 고종 강제 퇴위 반대 운동을 벌이다 해산되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "sinminhoe",
+          "note": "애국 계몽 운동"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "oriental-development-company",
+      "title": "동양 척식 주식회사 설립",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1908,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "일본이 한국의 토지와 자원을 빼앗으려고 세운 회사로, 토지 조사 사업 뒤 최대의 지주가 되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "land-survey"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "giyu-gakseo",
+      "title": "기유각서",
+      "era": "modern-era",
+      "date": {
+        "start": {
+          "year": 1909,
+          "month": 7,
+          "day": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일본이 대한 제국의 사법권과 감옥 사무를 빼앗았다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "annexation"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "era": "prehistory",
+  "events": [
+    {
+      "id": "paleolithic-age",
+      "title": "구석기 시대 시작",
+      "era": "prehistory",
+      "date": {
+        "start": {
+          "year": -700000
+        },
+        "approximate": true
+      },
+      "importance": "core",
+      "categories": [
+        "사회",
+        "문화"
+      ],
+      "summary": "한반도에 사람이 살기 시작한 시기로, 돌을 깨뜨려 만든 뗀석기를 썼다. 사냥과 채집으로 먹을 것을 구하며 동굴이나 막집에서 무리 지어 옮겨 다니며 살았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "jeongok-ri",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "neolithic-age",
+      "title": "신석기 시대 시작",
+      "era": "prehistory",
+      "date": {
+        "start": {
+          "year": -8000
+        },
+        "approximate": true
+      },
+      "importance": "core",
+      "categories": [
+        "사회",
+        "경제",
+        "문화"
+      ],
+      "summary": "돌을 갈아 만든 간석기와 빗살무늬 토기를 썼다. 농경과 목축이 시작되어 강가나 바닷가의 움집에 정착해 살았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "amsa-dong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "bronze-age"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "bronze-age",
+      "title": "청동기 시대 시작",
+      "era": "prehistory",
+      "date": {
+        "start": {
+          "year": -2000
+        },
+        "end": {
+          "year": -1500
+        },
+        "approximate": true
+      },
+      "importance": "core",
+      "categories": [
+        "사회",
+        "경제",
+        "문화"
+      ],
+      "summary": "청동기와 민무늬 토기를 쓰고 벼농사가 시작되었다. 생산력이 늘면서 사유 재산과 계급이 생겼고, 지배층의 무덤인 고인돌이 만들어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "ganghwa",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gojoseon-founding",
+          "note": "고조선은 청동기 문화를 바탕으로 성장"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    }
+  ]
+}

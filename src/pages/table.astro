@@ -1,0 +1,159 @@
+---
+// 표 보기: 전통적인 연표 표. 인쇄, 화면 낭독기, 검색 엔진을 위한 정적 페이지다.
+// 필터와 찾기는 작은 스크립트로 행을 숨기고 보이기만 한다 (자바스크립트가 없어도 표는 다 보인다).
+import { dateKey, loadDataset } from '../data/load.ts';
+import { displayTags, formatDate } from '../data/format.ts';
+import { BANDS, bandOf } from '../lib/bands.ts';
+// Pretendard 가변 글꼴 (필요한 글자 묶음만 내려받는 분할 버전)
+import 'pretendard/dist/web/variable/pretendardvariable-dynamic-subset.css';
+import '../styles/table.css';
+import HeadCommon from '../components/HeadCommon.astro';
+import Logo from '../components/Logo.tsx';
+import SiteNav from '../components/SiteNav.astro';
+import { SITE } from '../site.ts';
+
+const { dataset } = loadDataset();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const eras = dataset.eras
+  .map((era) => ({
+    era,
+    events: dataset.events
+      .filter((e) => e.era === era.id)
+      .sort((a, b) => dateKey(a.date.start) - dateKey(b.date.start)),
+  }))
+  .filter((g) => g.events.length > 0);
+const total = dataset.events.length;
+const normalize = (s: string) => s.toLowerCase().replace(/\s/g, '');
+const personById = new Map(dataset.people.map((p) => [p.id, p]));
+const namesOf = (ids: string[]) => ids.map((id) => personById.get(id)).filter((p) => p !== undefined);
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <HeadCommon
+      title={`표로 보는 한국사 연표 | ${SITE.name}`}
+      description={`선사 시대부터 현대까지 한국사 주요 사건 ${total}건을 시대별 표로 정리했습니다.`}
+    />
+  </head>
+  <body>
+    <header class="t-header">
+      <a class="t-brand" href={`${base}/`}><Logo size={24} /> {SITE.name}</a>
+      <SiteNav current="table" />
+    </header>
+    <main class="t-main">
+      <h1>표로 보는 한국사 연표</h1>
+      <p class="t-lead">
+        선사 시대부터 현대까지 주요 사건 {total}건입니다. 사건 이름을 누르면 타임라인·지도·연결 관계와 함께 볼 수 있습니다. 조선 시대까지의
+        날짜는 음력 기준입니다.
+      </p>
+
+      <form class="t-controls" id="table-controls" aria-label="표 거르기" onsubmit="return false">
+        <input type="search" id="t-query" placeholder="표에서 찾기" aria-label="표에서 찾기" />
+        <span class="t-bands">
+          {
+            BANDS.map((b) => (
+              <label class="t-chip">
+                <input type="checkbox" name="band" value={b.id} checked /> {b.label}
+              </label>
+            ))
+          }
+        </span>
+        <span class="t-count" id="t-count" aria-live="polite">{total}건</span>
+        <button type="button" class="t-print" onclick="window.print()">인쇄</button>
+      </form>
+
+      <nav class="t-toc" aria-label="시대 바로 가기">
+        {eras.map(({ era }) => <a href={`#era-${era.id}`} style={`--era:${era.color}`}>{era.name}</a>)}
+      </nav>
+
+      {
+        eras.map(({ era, events }) => (
+          <section class="t-era" id={`era-${era.id}`} style={`--era:${era.color}`}>
+            <h2>
+              {era.name} <small data-count>{events.length}건</small>
+            </h2>
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col" class="c-date">때</th>
+                  <th scope="col" class="c-title">사건</th>
+                  <th scope="col" class="c-summary">내용</th>
+                  <th scope="col" class="c-cat">분야</th>
+                </tr>
+              </thead>
+              <tbody>
+                {events.map((e) => (
+                  <tr
+                    data-band={bandOf(e)}
+                    data-text={normalize(`${e.title} ${e.summary} ${displayTags(e.tags).join(' ')} ${namesOf(e.people).map((p) => [p.name, ...p.aliases].join(' ')).join(' ')}`)}
+                    class={e.importance === 'core' ? 'core' : ''}
+                  >
+                    <td class="c-date">{formatDate(e.date)}</td>
+                    <th scope="row" class="c-title">
+                      <a href={`${base}/event/${e.id}/`}>{e.title}</a>
+                      {e.importance === 'core' && <span class="t-tag core">핵심</span>}
+                    </th>
+                    <td class="c-summary">
+                      {e.summary}
+                      {e.people.length > 0 && (
+                        <span class="t-people">
+                          인물:{' '}
+                          {namesOf(e.people).map((p, i) => (
+                            <>
+                              {i > 0 && ', '}
+                              <a href={`${base}/person/${p.id}/`}>{p.name}</a>
+                            </>
+                          ))}
+                        </span>
+                      )}
+                    </td>
+                    <td class="c-cat">{e.categories.join(' · ')}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </section>
+        ))
+      }
+      <p class="t-empty" id="t-empty" hidden>조건에 맞는 사건이 없습니다.</p>
+    </main>
+    <footer class="t-footer">
+      콘텐츠 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko">CC BY-NC-SA 4.0</a> · 코드 MIT ·
+      <a href={`${base}/about/`}>소개와 출처</a>
+    </footer>
+
+    <script>
+      const $ = <T extends Element>(sel: string) => document.querySelector(sel) as T;
+      const query = $<HTMLInputElement>('#t-query');
+      const bands = [...document.querySelectorAll<HTMLInputElement>('input[name="band"]')];
+      const rows = [...document.querySelectorAll<HTMLTableRowElement>('tbody tr')];
+      const sections = [...document.querySelectorAll<HTMLElement>('.t-era')];
+
+      function apply() {
+        const q = query.value.toLowerCase().replace(/\s/g, '');
+        const shownBands = new Set(bands.filter((b) => b.checked).map((b) => b.value));
+        let count = 0;
+        for (const r of rows) {
+          const ok =
+            shownBands.has(r.dataset.band ?? '') &&
+            (!q || (r.dataset.text ?? '').includes(q));
+          r.hidden = !ok;
+          if (ok) count++;
+        }
+        for (const s of sections) {
+          const visible = s.querySelectorAll('tbody tr:not([hidden])').length;
+          s.hidden = visible === 0;
+          const label = s.querySelector('[data-count]');
+          if (label) label.textContent = `${visible}건`;
+          const toc = document.querySelector<HTMLAnchorElement>(`.t-toc a[href$="#${s.id}"]`);
+          if (toc) toc.hidden = visible === 0;
+        }
+        $('#t-count').textContent = `${count}건`;
+        $<HTMLElement>('#t-empty').hidden = count > 0;
+      }
+      query.addEventListener('input', apply);
+      for (const el of bands) el.addEventListener('change', apply);
+    </script>
+  </body>
+</html>

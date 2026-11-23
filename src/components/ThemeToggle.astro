@@ -1,0 +1,33 @@
+---
+// 정적 페이지(표·인물·소개·404)용 화면 모드 버튼. 동작은 lib/theme.ts를 같이 쓴다.
+---
+
+<button type="button" class="site-nav-link theme-toggle" data-theme-toggle>
+  <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <g data-icon="system"><rect x="1.8" y="2.5" width="12.4" height="8.5" rx="1.4"></rect><path d="M5.5 13.5h5M8 11v2.5"></path></g>
+    <g data-icon="light" hidden><circle cx="8" cy="8" r="3"></circle><path d="M8 1.5v1.6M8 12.9v1.6M1.5 8h1.6M12.9 8h1.6M3.4 3.4l1.1 1.1M11.5 11.5l1.1 1.1M3.4 12.6l1.1-1.1M11.5 4.5l1.1-1.1"></path></g>
+    <g data-icon="dark" hidden><path d="M13.5 9.6A5.5 5.5 0 0 1 6.4 2.5a5.5 5.5 0 1 0 7.1 7.1z"></path></g>
+  </svg>
+  <span data-label>시스템 설정</span>
+</button>
+
+<script>
+  import { LABEL, NEXT, getThemePref, setThemePref, type ThemePref } from '../lib/theme.ts';
+
+  function render(btn: HTMLElement, pref: ThemePref) {
+    for (const g of btn.querySelectorAll<SVGGElement>('[data-icon]')) g.toggleAttribute('hidden', g.dataset.icon !== pref);
+    const label = btn.querySelector('[data-label]');
+    if (label) label.textContent = LABEL[pref];
+    const next = NEXT[pref];
+    btn.title = `화면 모드: ${LABEL[pref]} (누르면 ${LABEL[next]})`;
+    btn.setAttribute('aria-label', `화면 모드: ${LABEL[pref]}. 누르면 ${LABEL[next]}`);
+  }
+  for (const btn of document.querySelectorAll<HTMLElement>('[data-theme-toggle]')) {
+    render(btn, getThemePref());
+    btn.addEventListener('click', () => {
+      const next = NEXT[getThemePref()];
+      setThemePref(next);
+      render(btn, next);
+    });
+  }
+</script>

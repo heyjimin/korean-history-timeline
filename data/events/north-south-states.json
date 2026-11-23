@@ -1,0 +1,1086 @@
+{
+  "era": "north-south-states",
+  "events": [
+    {
+      "id": "sinmun-reforms",
+      "title": "신문왕의 개혁",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 681
+        },
+        "end": {
+          "year": 689
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "제도"
+      ],
+      "summary": "신문왕이 김흠돌의 난을 진압하고 진골 귀족을 숙청했다. 9주 5소경 체제를 갖추고(685), 관료전을 지급했으며(687) 녹읍을 폐지했다(689).",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gukhak"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "sinmun"
+      ]
+    },
+    {
+      "id": "gukhak",
+      "title": "국학 설립",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 682
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "제도",
+        "문화"
+      ],
+      "summary": "신문왕이 유학 교육 기관인 국학을 세웠다. 유교 이념을 바탕으로 왕권을 뒷받침할 인재를 기르려 했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "sinmun"
+      ]
+    },
+    {
+      "id": "balhae-founding",
+      "title": "발해 건국",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 698
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "고구려 장군 출신 대조영이 고구려 유민과 말갈인을 이끌고 동모산에서 발해를 세웠다. 남쪽의 신라와 함께 남북국 시대를 이루었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "dongmosan",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "balhae-dengzhou"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "dae-joyeong"
+      ]
+    },
+    {
+      "id": "jeongjeon",
+      "title": "성덕왕, 정전 지급",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 722
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "성덕왕이 백성에게 정전을 나누어 주었다. 국가가 농민에 대한 지배력을 강화하려는 정책이었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "balhae-dengzhou",
+      "title": "발해 무왕의 등주 공격",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 732
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "무왕이 장문휴를 보내 당의 등주를 공격했다. 무왕은 영토를 넓히고 ‘인안’이라는 독자적 연호를 썼다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "dengzhou",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "balhae-mun"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "balhae-mu"
+      ]
+    },
+    {
+      "id": "balhae-mun",
+      "title": "발해 문왕 즉위",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 737
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "문왕이 즉위해 당과 친선 관계를 맺고 당의 제도를 받아들여 3성 6부를 정비했다. 신라와는 신라도를 통해 교류했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "haedong-seongguk"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "balhae-munwang"
+      ]
+    },
+    {
+      "id": "bulguksa",
+      "title": "불국사·석굴암 창건",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 751
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "문화"
+      ],
+      "summary": "김대성의 발원으로 불국사와 석굴암을 짓기 시작했다. 통일 신라 불교 예술의 대표작으로, 유네스코 세계 유산이다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "bulguksa",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "nogeup-revival",
+      "title": "녹읍 부활",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 757
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "정치"
+      ],
+      "summary": "경덕왕 때 귀족의 반발로 폐지되었던 녹읍이 다시 생겼다. 왕권이 약해지고 귀족 세력이 강해지는 흐름을 보여 준다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "sinmun-reforms"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "silla-late-period",
+      "title": "혜공왕 피살과 신라 하대 시작",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 780
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "혜공왕이 귀족의 반란 속에 피살되고 선덕왕이 즉위하면서 신라 하대가 시작되었다. 이후 150여 년 동안 20명의 왕이 바뀌는 왕위 쟁탈전이 이어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "kim-heonchang"
+        },
+        {
+          "type": "led_to",
+          "target": "jinseong-revolts",
+          "note": "중앙 통제력 약화와 농민 수탈"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "haedong-seongguk",
+      "title": "발해의 전성기 (해동성국)",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 818
+        },
+        "end": {
+          "year": 830
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "선왕 때 대부분의 말갈 부족을 복속하고 요동 지역까지 진출해 최대 영토를 이루었다. 중국에서는 발해를 ‘바다 동쪽의 융성한 나라’라는 뜻의 해동성국이라 불렀다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "kim-heonchang",
+      "title": "김헌창의 난",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 822
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "아버지 김주원이 왕위에 오르지 못한 데 불만을 품은 김헌창이 웅진에서 반란을 일으켰다. 진압되었으나 지방 세력이 중앙에 도전한 사건이었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "ungjin",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "cheonghaejin",
+      "title": "장보고, 청해진 설치",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 828
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "경제",
+        "외교"
+      ],
+      "summary": "장보고가 완도에 청해진을 설치하고 해적을 소탕했다. 당·신라·일본을 잇는 해상 무역을 장악했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "cheonghaejin",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jang-bogo"
+      ]
+    },
+    {
+      "id": "jinseong-revolts",
+      "title": "원종·애노의 난",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 889
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "진성 여왕 때 국가가 세금을 독촉하자 상주에서 원종과 애노가 봉기했다. 이후 전국에서 농민 봉기가 잇따랐다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "hubaekje-founding"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "choi-chiwon-reform",
+      "title": "최치원, 시무 10여 조 건의",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 894
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "당에서 빈공과에 합격하고 돌아온 6두품 최치원이 진성 여왕에게 개혁안을 올렸으나 진골 귀족의 반대로 받아들여지지 않았다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "choe-chiwon"
+      ]
+    },
+    {
+      "id": "hubaekje-founding",
+      "title": "후백제 건국",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 900
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "견훤이 완산주(전주)에서 후백제를 세웠다. 이듬해 후고구려가 세워지면서 후삼국 시대가 열렸다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "jeonju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "hugoguryeo-founding"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gyeonhwon"
+      ]
+    },
+    {
+      "id": "hugoguryeo-founding",
+      "title": "후고구려 건국",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 901
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "신라 왕족 출신이라는 궁예가 송악에서 후고구려를 세웠다. 이후 국호를 마진, 태봉으로 바꾸고 철원으로 도읍을 옮겼다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gaeseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "goryeo-founding",
+          "note": "궁예를 몰아내고 왕건이 즉위"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gungye"
+      ]
+    },
+    {
+      "id": "balhae-fall",
+      "title": "발해 멸망",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 926
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "정치"
+      ],
+      "summary": "발해가 거란의 침략을 받아 멸망했다. 발해 유민 상당수가 고려로 넘어왔고, 고려는 이들을 받아들였다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "silla-surrender",
+      "title": "신라 경순왕의 고려 귀순",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 935
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "경순왕이 나라를 고려에 넘기면서 신라가 천 년 만에 막을 내렸다. 고려는 경순왕을 경주의 사심관으로 삼았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "later-three-unification"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "wang-geon"
+      ]
+    },
+    {
+      "id": "wonhyo",
+      "title": "원효, 불교 대중화",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 661
+        },
+        "end": {
+          "year": 686
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "원효가 \"나무아미타불\"만 외워도 극락에 갈 수 있다는 아미타 신앙을 퍼뜨려 불교를 백성에게 널리 알렸다. 일심 사상과 화쟁 사상으로 종파 간 대립을 조화하려 했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "uisang"
+        }
+      ],
+      "people": [
+        "wonhyo"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "uisang",
+      "title": "의상, 부석사 창건과 화엄종 전파",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 676
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "당에서 화엄 사상을 공부하고 돌아온 의상이 영주에 부석사를 세웠다. \"하나가 곧 전체\"라는 화엄 사상으로 통일 신라의 사회 통합에 이바지했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "buseoksa",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [
+        "uisang"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "hyecho",
+      "title": "혜초, 『왕오천축국전』",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 727
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "신라 승려 혜초가 인도와 중앙아시아를 여행하고 쓴 기행문이다. 1908년 중국 둔황에서 발견되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "minjeong-munseo",
+      "title": "신라 촌락 문서 (민정 문서)",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 755
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "서원경(청주) 부근 4개 촌락의 인구, 토지, 가축, 나무 수를 3년마다 조사해 기록한 문서다. 일본 도다이사 쇼소인에서 발견되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "cheongju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "balhae-sanggyeong",
+      "title": "발해, 상경 천도",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 756
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "문왕이 도읍을 상경 용천부로 옮겼다. 상경은 당의 장안성을 본떠 바둑판처럼 반듯하게 만들어졌다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "balhae-mun",
+          "note": "문왕 때의 일"
+        }
+      ],
+      "people": [
+        "balhae-munwang"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "seongdeok-bell",
+      "title": "성덕 대왕 신종 완성",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 771
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "경덕왕이 아버지 성덕왕을 기리려고 만들기 시작해 혜공왕 때 완성한 종이다. 에밀레종이라고도 불리며, 맑고 긴 울림으로 유명하다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "doksam-hwapum",
+      "title": "독서삼품과 실시",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 788
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "제도"
+      ],
+      "summary": "원성왕이 유교 경전의 이해 수준에 따라 관리를 뽑는 제도를 마련했다. 진골 귀족의 반대로 제대로 시행되지 못했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gyeongju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gukhak"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "seon-spread",
+      "title": "선종의 확산",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 830
+        },
+        "end": {
+          "year": 900
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "문화",
+        "사회"
+      ],
+      "summary": "신라 하대에 참선으로 깨달음을 얻는다는 선종이 지방 호족의 후원을 받아 퍼졌다. 전국에 9산 선문이 세워졌다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "silla-late-period"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gongsan-battle",
+      "title": "공산 전투",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 927
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "후백제의 견훤이 경주를 습격해 경애왕을 죽이자, 신라를 도우러 온 고려 왕건이 공산에서 견훤에게 크게 패했다. 신숭겸 등이 왕건을 구하고 전사했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gongsan",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gochang-battle"
+        }
+      ],
+      "people": [
+        "gyeonhwon",
+        "wang-geon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gochang-battle",
+      "title": "고창 전투",
+      "era": "north-south-states",
+      "date": {
+        "start": {
+          "year": 930
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "왕건이 고창(안동)에서 견훤의 후백제군을 크게 물리쳤다. 이후 후삼국의 주도권이 고려로 넘어갔다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gochang-andong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "later-three-unification"
+        }
+      ],
+      "people": [
+        "gyeonhwon",
+        "wang-geon"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    }
+  ]
+}

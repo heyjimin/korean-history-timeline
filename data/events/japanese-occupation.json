@@ -1,0 +1,2093 @@
+{
+  "era": "japanese-occupation",
+  "events": [
+    {
+      "id": "governor-general",
+      "title": "조선 총독부 설치",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1910,
+          "month": 10,
+          "day": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일제가 식민 통치 기구로 조선 총독부를 두었다. 현역 육·해군 대장이 총독을 맡아 입법·사법·행정·군사권을 장악했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "military-rule"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "military-rule",
+      "title": "무단 통치",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1910
+        },
+        "end": {
+          "year": 1919
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "헌병 경찰이 일반 경찰 업무까지 맡아 즉결 처분권을 행사했다. 조선 태형령을 시행하고 교사에게도 제복과 칼을 차게 했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "march-first",
+          "note": "무단 통치에 대한 저항"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "company-act",
+      "title": "회사령 공포",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1910,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "회사를 세울 때 총독의 허가를 받게 해 민족 기업의 성장을 억눌렀다. 1920년 신고제로 바뀌었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "land-survey",
+      "title": "토지 조사 사업",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1910
+        },
+        "end": {
+          "year": 1918
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "경제"
+      ],
+      "summary": "근대적 토지 소유권 확립을 내세웠으나 기한 내 신고하지 않은 땅과 공공 토지를 총독부가 빼앗았다. 농민의 관습적 경작권이 부정되어 많은 농민이 소작농으로 몰락했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "case-105",
+      "title": "105인 사건",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1911
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일제가 데라우치 총독 암살 모의를 조작해 신민회 회원 등 600여 명을 체포하고 105명을 기소했다. 이 사건으로 신민회가 해체되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gwangbokhoe",
+      "title": "대한 광복회 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1915,
+          "month": 7
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "박상진 등이 대구에서 조직한 비밀 결사로, 공화정 국가 건설을 목표로 군자금을 모으고 친일 부호를 처단했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "daegu",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "bak-sangjin"
+      ]
+    },
+    {
+      "id": "feb-8-declaration",
+      "title": "2·8 독립 선언",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1919,
+          "month": 2,
+          "day": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "도쿄의 조선인 유학생들이 조선 청년 독립단을 결성하고 독립 선언서를 발표했다. 3·1 운동에 영향을 주었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "tokyo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "march-first"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "march-first",
+      "title": "3·1 운동",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1919,
+          "month": 3,
+          "day": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "민족 대표 33인이 독립 선언서를 발표하고, 탑골 공원에서 학생과 시민이 만세 시위를 시작했다. 전국과 해외로 퍼진 최대 규모의 민족 운동으로, 일제의 통치 방식을 바꾸고 임시 정부 수립의 계기가 되었다.",
+      "detail": "고종의 갑작스러운 죽음과 윌슨의 민족 자결주의가 배경이 되었다. 처음에는 비폭력 시위로 시작했으나 일제의 무력 진압에 맞서 점차 무력 저항으로 바뀌었다.\n\n3·1 운동은 중국의 5·4 운동, 인도의 비폭력 저항 운동 등 아시아의 민족 운동에도 영향을 주었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "jeamri-massacre"
+        },
+        {
+          "type": "led_to",
+          "target": "provisional-government"
+        },
+        {
+          "type": "led_to",
+          "target": "cultural-rule"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "gojong",
+        "son-byeonghui",
+        "yu-gwansun"
+      ]
+    },
+    {
+      "id": "jeamri-massacre",
+      "title": "제암리 학살",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1919,
+          "month": 4,
+          "day": 15
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "일본군이 화성 제암리 주민들을 교회에 가두고 총을 쏘고 불을 질러 학살했다. 3·1 운동에 대한 일제의 잔혹한 탄압을 보여 준다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "jeamri",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "provisional-government",
+      "title": "대한민국 임시 정부 수립",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1919,
+          "month": 4,
+          "day": 11
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "3·1 운동을 계기로 상하이에서 민주 공화제 정부를 수립했다. 여러 임시 정부를 통합하고(1919.9) 연통제와 교통국을 조직해 국내와 연락했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "shanghai",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "yun-bonggil"
+        },
+        {
+          "type": "followed_by",
+          "target": "liberation-army"
+        },
+        {
+          "type": "related",
+          "target": "rok-government",
+          "note": "헌법 전문에 임시 정부의 법통 계승을 밝힘"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "an-changho",
+        "kim-gu",
+        "syngman-rhee"
+      ]
+    },
+    {
+      "id": "uiyeoldan",
+      "title": "의열단 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1919,
+          "month": 11
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "김원봉이 지린에서 조직한 무장 독립 단체다. 신채호의 「조선 혁명 선언」을 행동 강령으로 삼아 일제 기관 파괴와 요인 암살을 벌였다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "jilin",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "korean-volunteer-corps"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-wonbong",
+        "sin-chaeho"
+      ]
+    },
+    {
+      "id": "cultural-rule",
+      "title": "문화 통치",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1919
+        },
+        "end": {
+          "year": 1931
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "3·1 운동 뒤 일제가 헌병 경찰제를 보통 경찰제로 바꾸고 한글 신문 발행을 허용했다. 그러나 경찰 수는 오히려 늘었고, 친일파를 키워 민족을 분열시키려 했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "assimilation-policy"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "rice-production-plan",
+      "title": "산미 증식 계획",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1920
+        },
+        "end": {
+          "year": 1934
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "경제"
+      ],
+      "summary": "일본의 식량 부족을 해결하려고 조선에서 쌀 생산을 늘리게 했다. 늘어난 양보다 많은 쌀이 일본으로 빠져나가 조선 농민의 식량 사정은 더 나빠졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "bongodong-battle",
+      "title": "봉오동 전투",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1920,
+          "month": 6
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "홍범도가 이끄는 대한 독립군 등 연합 부대가 봉오동으로 일본군을 유인해 크게 물리쳤다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "bongodong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "cheongsanri-battle"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "hong-beomdo"
+      ]
+    },
+    {
+      "id": "cheongsanri-battle",
+      "title": "청산리 대첩",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1920,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "김좌진의 북로 군정서와 홍범도의 대한 독립군 등이 청산리 일대에서 6일간 10여 차례 전투를 벌여 일본군을 크게 이겼다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "cheongsanri",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "gando-massacre",
+          "note": "패배한 일본군의 보복"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "hong-beomdo",
+        "kim-jwajin"
+      ]
+    },
+    {
+      "id": "gando-massacre",
+      "title": "간도 참변",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1920,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "봉오동·청산리에서 패한 일본군이 간도의 한인 마을을 습격해 주민을 학살했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "gando",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "free-city-incident"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "free-city-incident",
+      "title": "자유시 참변",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1921,
+          "month": 6
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "일본군을 피해 러시아 자유시로 옮겨 간 독립군이 지휘권 다툼 속에 러시아 적군에 의해 무장 해제당하며 큰 피해를 입었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "svobodny",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "hong-beomdo"
+      ]
+    },
+    {
+      "id": "national-goods-movement",
+      "title": "물산 장려 운동",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1920
+        },
+        "end": {
+          "year": 1923
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "조만식 등이 평양에서 시작해(1920) 1923년 전국으로 확산된 운동이다. \"조선 사람 조선 것\"을 구호로 국산품 애용과 민족 기업 육성을 내세웠다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jo-mansik"
+      ]
+    },
+    {
+      "id": "national-university-movement",
+      "title": "민립 대학 설립 운동",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1922
+        },
+        "end": {
+          "year": 1923
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회",
+        "문화"
+      ],
+      "summary": "이상재 등이 조선 민립 대학 기성회를 만들어 \"한민족 1천만이 한 사람 1원씩\" 모금 운동을 벌였다. 일제는 경성 제국 대학을 세워 이를 무마했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yi-sangjae"
+      ]
+    },
+    {
+      "id": "hyeongpyeongsa",
+      "title": "조선 형평사 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1923,
+          "month": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "진주에서 백정들이 신분 차별 철폐를 위해 조직한 단체로, 형평 운동을 전국으로 펼쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "jinju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "kanto-massacre",
+      "title": "관동 대지진과 조선인 학살",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1923,
+          "month": 9
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "일본 관동 지방에 큰 지진이 나자 조선인이 우물에 독을 탔다는 유언비어가 퍼졌고, 군경과 자경단이 수많은 조선인을 학살했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "tokyo",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "peace-preservation-law",
+      "title": "치안 유지법 시행",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1925
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "사회주의 운동을 막는다는 명분으로 제정했으나 독립운동을 탄압하는 데 널리 쓰였다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "june-10-movement",
+      "title": "6·10 만세 운동",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1926,
+          "month": 6,
+          "day": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "순종의 장례일에 학생과 사회주의 계열이 준비한 만세 시위가 일어났다. 민족주의와 사회주의 세력이 연대하는 계기가 되어 신간회 창립으로 이어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "singanhoe"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "singanhoe",
+      "title": "신간회 창립",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1927,
+          "month": 2
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "비타협적 민족주의 세력과 사회주의 세력이 손잡고 만든 최대 규모의 합법 단체다. 광주 학생 항일 운동에 진상 조사단을 보냈으며, 1931년 해소되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwangju-student-movement"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yi-sangjae"
+      ]
+    },
+    {
+      "id": "wonsan-strike",
+      "title": "원산 총파업",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1929,
+          "month": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회",
+        "경제"
+      ],
+      "summary": "일본인 감독의 한국인 노동자 폭행을 계기로 원산의 노동자들이 4개월 동안 총파업을 벌였다. 일제 강점기 최대 규모의 노동 운동이었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "wonsan",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "gwangju-student-movement",
+      "title": "광주 학생 항일 운동",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1929,
+          "month": 11,
+          "day": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "사회"
+      ],
+      "summary": "나주역에서 일어난 한·일 학생 간 충돌을 계기로 광주에서 시작된 학생 시위가 전국으로 퍼졌다. 3·1 운동 이후 최대 규모의 민족 운동이었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gwangju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "manchurian-incident",
+      "title": "만주 사변",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1931,
+          "month": 9,
+          "day": 18
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "일본 관동군이 만주를 침략하고 이듬해 만주국을 세웠다. 이를 계기로 한·중 연합 작전이 활발해졌다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "korea-china-joint-operations"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "korea-china-joint-operations",
+      "title": "한·중 연합 작전",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1932
+        },
+        "end": {
+          "year": 1933
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "양세봉의 조선 혁명군이 중국 의용군과 영릉가 전투(1932)에서, 지청천의 한국 독립군이 쌍성보 전투(1932)·대전자령 전투(1933)에서 일본군을 물리쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "yeongneungga",
+          "role": "main"
+        },
+        {
+          "place": "ssangseongbo",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "ji-cheongcheon",
+        "yang-sebong"
+      ]
+    },
+    {
+      "id": "lee-bongchang",
+      "title": "이봉창 의거",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1932,
+          "month": 1,
+          "day": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "한인 애국단원 이봉창이 도쿄에서 일왕에게 폭탄을 던졌다. 실패했으나 중국 언론이 이를 크게 보도했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "tokyo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "yun-bonggil"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-gu",
+        "lee-bongchang"
+      ]
+    },
+    {
+      "id": "yun-bonggil",
+      "title": "윤봉길 의거",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1932,
+          "month": 4,
+          "day": 29
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "한인 애국단원 윤봉길이 상하이 훙커우 공원의 일왕 생일 및 전승 기념식장에 폭탄을 던져 일본군 고위 장성들을 처단했다. 중국 국민당 정부가 임시 정부를 지원하는 계기가 되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "hongkew-park",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-gu",
+        "yun-bonggil"
+      ]
+    },
+    {
+      "id": "hangeul-unified-spelling",
+      "title": "한글 맞춤법 통일안 제정",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1933
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "조선어 학회가 한글 맞춤법 통일안을 만들고, 표준어와 외래어 표기법을 정했다. 우리말 큰사전 편찬을 준비했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "joseoneo-hakhoe-incident"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "assimilation-policy",
+      "title": "민족 말살 통치",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1937
+        },
+        "end": {
+          "year": 1945
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "중·일 전쟁 이후 일제가 내선일체와 황국 신민화를 내세워 황국 신민 서사 암송, 신사 참배, 창씨개명(1940)을 강요하고 학교에서 조선어 교육을 사실상 없앴다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "wartime-mobilization"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "sino-japanese-war-2",
+      "title": "중·일 전쟁",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1937,
+          "month": 7
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "일본이 중국을 전면 침략했다. 일제는 조선을 대륙 침략의 병참 기지로 삼았다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "wartime-mobilization"
+        },
+        {
+          "type": "led_to",
+          "target": "assimilation-policy"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "wartime-mobilization",
+      "title": "전시 동원과 수탈",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1938
+        },
+        "end": {
+          "year": 1945
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "사회",
+        "경제"
+      ],
+      "summary": "국가 총동원법(1938)을 바탕으로 쌀과 금속 등 물자를 공출하고, 국민 징용령(1939)과 징병제(1944)로 사람을 강제 동원했다. 많은 여성이 일본군 ‘위안부’로 끌려가 고통을 겪었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "korean-volunteer-corps",
+      "title": "조선 의용대 창설",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1938,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "김원봉이 중국 관내에서 처음 조직한 한인 무장 부대로, 중국 국민당 정부의 지원을 받았다. 일부는 화북으로 가서 조선 의용군이 되고, 나머지는 한국광복군에 합류했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "hankou",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberation-army"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-wonbong"
+      ]
+    },
+    {
+      "id": "liberation-army",
+      "title": "한국광복군 창설",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1940,
+          "month": 9,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "대한민국 임시 정부가 충칭에서 창설한 정규군이다. 대일 선전 포고(1941) 뒤 인도·미얀마 전선에 참전했고, 미국 OSS와 함께 국내 진공 작전을 준비했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "chongqing",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-gu",
+        "ji-cheongcheon"
+      ]
+    },
+    {
+      "id": "joseoneo-hakhoe-incident",
+      "title": "조선어 학회 사건",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1942,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "일제가 조선어 학회를 독립운동 단체로 몰아 회원들을 체포하고 학회를 해산시켰다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "cairo-conference",
+      "title": "카이로 회담",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1943,
+          "month": 11
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "미국, 영국, 중국 정상이 모여 \"적당한 시기에\" 한국을 독립시키기로 처음 약속했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "cairo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "liberation"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "geonguk-dongmaeng",
+      "title": "조선 건국 동맹 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1944,
+          "month": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "여운형이 국내에서 비밀리에 조직한 단체로, 광복 직후 조선 건국 준비 위원회의 바탕이 되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "geonjun",
+          "note": "광복 직후 건국 준비 위원회로 발전"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yeo-unhyeong"
+      ]
+    },
+    {
+      "id": "education-decree-1911",
+      "title": "제1차 조선 교육령",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1911,
+          "month": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "제도",
+        "문화"
+      ],
+      "summary": "보통학교 수업 연한을 4년으로 줄이고 실업 교육 위주로 가르쳐 일본에 순종하는 사람을 기르려 했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "military-rule"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "flogging-decree",
+      "title": "조선 태형령",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1912
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "제도",
+        "사회"
+      ],
+      "summary": "한국인에게만 재판 없이 매를 때리는 태형을 가할 수 있게 했다. 3·1 운동 뒤 폐지되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "military-rule"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "gwangbokgun-jeongbu",
+      "title": "대한 광복군 정부 수립",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1914
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "이상설과 이동휘 등이 연해주 블라디보스토크에서 세운 망명 정부로, 무장 독립 전쟁을 준비했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "vladivostok",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "provisional-government"
+        }
+      ],
+      "people": [
+        "yi-sangseol"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "sinhan-cheongnyeondang",
+      "title": "신한 청년당 결성과 파리 강화 회의 대표 파견",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1918
+        },
+        "end": {
+          "year": 1919
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "여운형 등이 상하이에서 신한 청년당을 만들고 김규식을 파리 강화 회의에 보내 독립을 호소했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "shanghai",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "march-first"
+        }
+      ],
+      "people": [
+        "yeo-unhyeong",
+        "kim-gyusik"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "korean-newspapers-1920",
+      "title": "『조선일보』·『동아일보』 창간",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1920,
+          "month": 3
+        },
+        "end": {
+          "year": 1920,
+          "month": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "문화 통치로 한글 신문 발행이 허가되면서 두 신문이 창간되었다. 일제의 검열로 기사 삭제와 정간을 자주 당했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "cultural-rule"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "national-representatives-conference",
+      "title": "국민 대표 회의",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1923
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "임시 정부의 진로를 두고 창조파와 개조파가 맞섰으나 결렬되어 임시 정부가 침체에 빠졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "shanghai",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "provisional-government"
+        }
+      ],
+      "people": [
+        "an-changho"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "amtaedo-dispute",
+      "title": "암태도 소작 쟁의",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1923
+        },
+        "end": {
+          "year": 1924
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회",
+        "경제"
+      ],
+      "summary": "암태도 소작농들이 높은 소작료에 맞서 1년 가까이 싸워 소작료를 낮추는 데 성공했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "amtaedo",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "wonsan-strike",
+          "note": "1920년대 농민·노동 운동"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "joseon-communist-party",
+      "title": "조선 공산당 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1925
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "사회주의 세력이 비밀리에 조선 공산당을 만들었다. 치안 유지법으로 거듭 탄압받았다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "peace-preservation-law"
+        },
+        {
+          "type": "related",
+          "target": "june-10-movement"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "geunuhoe",
+      "title": "근우회 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1927,
+          "month": 5
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "신간회의 자매단체로 만들어진 여성 운동 단체로, 여성 차별 철폐와 민족 운동에 힘썼다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "singanhoe"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "aegukdan",
+      "title": "한인 애국단 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1931
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "침체된 임시 정부에 활기를 불어넣으려고 김구가 상하이에서 조직한 단체로, 이봉창과 윤봉길이 단원이었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "shanghai",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "lee-bongchang"
+        },
+        {
+          "type": "related",
+          "target": "provisional-government"
+        }
+      ],
+      "people": [
+        "kim-gu"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "jindan-hakhoe",
+      "title": "진단 학회 결성",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1934
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "이병도, 손진태 등이 실증주의 방법으로 한국사를 연구하려고 만든 학회로, 『진단학보』를 펴냈다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "korean-volunteer-army",
+      "title": "조선 독립 동맹과 조선 의용군",
+      "era": "japanese-occupation",
+      "date": {
+        "start": {
+          "year": 1942
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "전쟁"
+      ],
+      "summary": "화북 지역의 사회주의 계열이 김두봉을 중심으로 조선 독립 동맹을 만들고, 조선 의용대 일부를 조선 의용군으로 개편해 항일 투쟁을 했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "korean-volunteer-corps"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    }
+  ]
+}

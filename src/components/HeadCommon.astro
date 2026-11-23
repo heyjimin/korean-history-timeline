@@ -1,0 +1,42 @@
+---
+// 모든 페이지에 공통인 <head> 내용: 제목, 설명, 아이콘, 공유 미리보기
+import { SITE } from '../site.ts';
+
+interface Props {
+  title: string;
+  description: string;
+  /** 공유 미리보기 이미지 경로 (base 뒤). 없으면 사이트 이미지 */
+  ogImagePath?: string;
+}
+const { title, description, ogImagePath = '/og/site.png' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const origin = Astro.site ?? Astro.url.origin;
+const pageUrl = new URL(Astro.url.pathname, origin).href;
+const ogImage = new URL(`${base}${ogImagePath}`, origin).href;
+---
+
+<meta charset="utf-8" />
+<script is:inline>
+  // 고른 화면 모드를 그리기 전에 적용한다 (밝은 화면이 잠깐 번쩍이지 않도록)
+  try {
+    const t = localStorage.getItem('kht:theme');
+    if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+  } catch (e) {}
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="theme-color" content={SITE.themeColor} />
+<link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+<link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
+<link rel="canonical" href={pageUrl} />
+<meta property="og:site_name" content={SITE.name} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:type" content="website" />
+<meta property="og:url" content={pageUrl} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />

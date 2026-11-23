@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+*.log
+.env*
+
+# 작업용 파일 (이 컴퓨터에만 둔다)
+docs/plan.md
+.claude/

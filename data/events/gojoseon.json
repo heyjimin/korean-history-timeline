@@ -1,0 +1,277 @@
+{
+  "era": "gojoseon",
+  "events": [
+    {
+      "id": "gojoseon-founding",
+      "title": "고조선 건국",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -2333
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "『삼국유사』에 따르면 단군왕검이 기원전 2333년에 고조선을 세웠다. 우리 역사 최초의 국가로, 청동기 문화를 바탕으로 성장했다.",
+      "detail": "건국 연도는 『삼국유사』와 『동국통감』 등의 기록을 따른 것이다. 고조선은 요령 지방과 한반도 서북부를 중심으로 발전했으며, 비파형 동검과 고인돌의 분포로 그 세력 범위를 짐작한다.\n\n사회 질서를 유지하기 위해 범금 8조(8조법)를 두었는데, 지금은 그중 3개 조항만 전해진다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "wanggeomseong",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "dangun"
+      ]
+    },
+    {
+      "id": "iron-age",
+      "title": "철기 문화 보급",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -500
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "문화"
+      ],
+      "summary": "기원전 5세기 무렵부터 철기가 보급되어 농기구와 무기가 크게 발달했다. 중국과의 교류로 명도전·반량전 같은 화폐도 들어왔다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "wiman-joseon"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "wiman-joseon",
+      "title": "위만의 집권 (위만 조선)",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -194
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "중국에서 무리를 이끌고 온 위만이 준왕을 몰아내고 왕이 되었다. 철기 문화를 본격적으로 받아들이고, 한과 남쪽 나라들 사이의 중계 무역으로 이익을 얻었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "wanggeomseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "gojoseon-fall"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "wiman"
+      ]
+    },
+    {
+      "id": "gojoseon-fall",
+      "title": "고조선 멸망",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -108
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "정치"
+      ],
+      "summary": "한 무제의 침략에 1년 가까이 맞섰으나 지배층의 내분으로 왕검성이 함락되었다. 한은 고조선의 옛 땅에 군현을 설치했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "wanggeomseong",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "han-commanderies"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "han-commanderies",
+      "title": "한 군현 설치",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -108
+        }
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "한이 고조선의 옛 땅에 낙랑군 등 4개의 군현을 두었다. 토착민의 저항으로 대부분 곧 없어지거나 옮겨 갔고, 낙랑군은 313년 고구려에 의해 축출되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "pyongyang",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "micheon-nangnang"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "various-states",
+      "title": "여러 나라의 성장 (부여·고구려·옥저·동예·삼한)",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -200
+        },
+        "end": {
+          "year": 300
+        },
+        "approximate": true
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "고조선 전후로 만주와 한반도 곳곳에서 철기 문화를 바탕으로 부여, 고구려, 옥저, 동예, 삼한이 성장했다. 각 나라는 영고·동맹·무천 같은 제천 행사와 고유한 풍습을 지녔다.",
+      "detail": "부여는 쑹화강 유역의 평야에서 농경과 목축을 했고, 마가·우가 같은 가(加)들이 사출도를 다스렸다. 옥저와 동예는 왕이 없이 읍군·삼로가 다스렸으며, 옥저에는 민며느리제, 동예에는 책화라는 풍습이 있었다.\n\n삼한(마한·진한·변한)은 신지·읍차 같은 정치적 지배자와 천군이라는 제사장이 따로 있었고, 천군이 다스리는 소도는 신성한 지역으로 여겨졌다. 변한은 철이 많이 나서 낙랑과 왜에 수출했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "yeon-invasion",
+      "title": "연의 침입과 고조선의 서쪽 영토 상실",
+      "era": "gojoseon",
+      "date": {
+        "start": {
+          "year": -280
+        },
+        "approximate": true
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "기원전 3세기 초 중국 연나라 장수 진개의 공격으로 고조선이 서쪽 땅 2천여 리를 잃었다고 전한다. 이후 고조선의 중심이 대동강 유역으로 옮겨 갔다는 견해가 있다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "wiman-joseon"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    }
+  ]
+}

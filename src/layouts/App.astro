@@ -1,0 +1,53 @@
+---
+// 타임라인 화면용 레이아웃: 메인과 사건 페이지가 같은 React 앱을 쓴다.
+// 사건 페이지는 서버에서 상세 패널까지 미리 그려지므로 검색 노출과 공유 미리보기가 된다.
+import App from '../components/App.tsx';
+import { loadDataset } from '../data/load.ts';
+import HeadCommon from '../components/HeadCommon.astro';
+import { SITE } from '../site.ts';
+
+interface Props {
+  initialId: string | null;
+  initialPersonId?: string | null;
+}
+const { initialId, initialPersonId = null } = Astro.props;
+const { dataset } = loadDataset();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const event = initialId ? dataset.events.find((e) => e.id === initialId) : undefined;
+const person = initialPersonId ? dataset.people.find((p) => p.id === initialPersonId) : undefined;
+const title = event
+  ? `${event.title} | ${SITE.name}`
+  : person
+    ? `${person.name} | ${SITE.name}`
+    : `${SITE.name} — ${SITE.tagline}`;
+const description = event?.summary ?? (person ? `${person.role}. ${person.summary}` : SITE.description);
+
+// 첫 화면에 필요한 만큼만 싣는다: 사건 페이지라면 그 사건과 연결된 사건, 그 사건들의 장소
+const linkedIds = new Set<string>();
+if (event) {
+  linkedIds.add(event.id);
+  for (const r of event.relations) linkedIds.add(r.target);
+  for (const e of dataset.events) if (e.relations.some((r) => r.target === event.id)) linkedIds.add(e.id);
+}
+if (person) for (const e of dataset.events) if (e.people.includes(person.id)) linkedIds.add(e.id);
+const initialEvents = dataset.events.filter((e) => linkedIds.has(e.id));
+const personIds = new Set(initialEvents.flatMap((e) => e.people));
+if (person) personIds.add(person.id);
+const placeIds = new Set(initialEvents.flatMap((e) => e.locations.map((l) => l.place)));
+const initial = {
+  events: initialEvents,
+  eras: dataset.eras,
+  places: dataset.places.filter((p) => placeIds.has(p.id)),
+  people: dataset.people.filter((p) => personIds.has(p.id)),
+};
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <HeadCommon title={title} description={description} ogImagePath={event ? `/og/${event.id}.png` : '/og/site.png'} />
+  </head>
+  <body>
+    <App client:load initial={initial} base={base} initialId={initialId} initialPersonId={initialPersonId} />
+  </body>
+</html>

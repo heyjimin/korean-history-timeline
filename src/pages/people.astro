@@ -1,0 +1,121 @@
+---
+// 인물 목록: 시대별로 인물을 모아 보여 준다. 인물을 누르면 타임라인·지도에서 그 인물의 사건을 강조해 본다.
+// 시대는 그 인물이 관련된 가장 이른 사건의 시대로 정한다.
+import { loadDataset } from '../data/load.ts';
+import { formatLifespan } from '../data/format.ts';
+import { eventSpan } from '../lib/timeScale.ts';
+import HeadCommon from '../components/HeadCommon.astro';
+import Logo from '../components/Logo.tsx';
+import SiteNav from '../components/SiteNav.astro';
+import { SITE } from '../site.ts';
+import '../styles/table.css';
+
+const { dataset } = loadDataset();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const normalize = (s: string) => s.toLowerCase().replace(/\s/g, '');
+
+const enriched = dataset.people.map((p) => {
+  const evs = dataset.events
+    .filter((e) => e.people.includes(p.id))
+    .map((e) => ({ e, t: eventSpan(e.date)[0] }))
+    .sort((a, b) => a.t - b.t);
+  return { p, evs, first: evs[0] };
+});
+const eras = dataset.eras
+  .map((era) => ({
+    era,
+    people: enriched
+      .filter((x) => x.first?.e.era === era.id)
+      // 태어난 해 순서, 모르면 첫 사건 시점 순서
+      .sort((a, b) => (a.p.born ?? a.first!.t) - (b.p.born ?? b.first!.t)),
+  }))
+  .filter((g) => g.people.length > 0);
+const total = enriched.filter((x) => x.first).length;
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <HeadCommon title={`인물로 보는 한국사 | ${SITE.name}`} description={`한국사의 주요 인물 ${total}명을 시대별로 모았습니다. 인물을 누르면 관련 사건을 타임라인과 지도에서 볼 수 있습니다.`} />
+  </head>
+  <body>
+    <header class="t-header">
+      <a class="t-brand" href={`${base}/`}><Logo size={24} /> {SITE.name}</a>
+      <SiteNav current="people" />
+    </header>
+    <main class="t-main">
+      <h1>인물로 보는 한국사</h1>
+      <p class="t-lead">
+        주요 인물 {total}명을 처음 등장하는 시대별로 모았습니다. 인물을 누르면 관련 사건을 타임라인과 지도에서 함께 볼 수 있습니다.
+      </p>
+
+      <form class="t-controls" aria-label="인물 찾기" onsubmit="return false">
+        <input type="search" id="p-query" placeholder="이름·호·역할로 찾기" aria-label="인물 찾기" />
+        <span class="t-count" id="p-count" aria-live="polite">{total}명</span>
+      </form>
+
+      <nav class="t-toc" aria-label="시대 바로 가기">
+        {eras.map(({ era, people }) => <a href={`#era-${era.id}`} style={`--era:${era.color}`}>{era.name} <small>{people.length}</small></a>)}
+      </nav>
+
+      {
+        eras.map(({ era, people }) => (
+          <section class="t-era" id={`era-${era.id}`} style={`--era:${era.color}`}>
+            <h2>
+              {era.name} <small data-count>{people.length}명</small>
+            </h2>
+            <ul class="people-grid">
+              {people.map(({ p, evs }) => (
+                <li data-text={normalize([p.name, ...p.aliases, p.role].join(' '))}>
+                  <a href={`${base}/person/${p.id}/`} class="person-card">
+                    <span class="pc-head">
+                      <strong>{p.name}</strong>
+                      <span class="pc-life">{formatLifespan(p)}</span>
+                    </span>
+                    <span class="pc-role">{p.role}</span>
+                    {p.aliases.length > 0 && <span class="pc-alias">{p.aliases.join(' · ')}</span>}
+                    <span class="pc-summary">{p.summary}</span>
+                    <span class="pc-events">
+                      관련 사건 {evs.length}건 · {evs.slice(0, 3).map((x) => x.e.title).join(', ')}
+                      {evs.length > 3 ? ' 등' : ''}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+      <p class="t-empty" id="p-empty" hidden>찾는 인물이 없습니다.</p>
+    </main>
+    <footer class="t-footer">
+      콘텐츠 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko">CC BY-NC-SA 4.0</a> · 코드 MIT ·
+      <a href={`${base}/about/`}>소개와 출처</a>
+    </footer>
+
+    <script>
+      const query = document.querySelector('#p-query') as HTMLInputElement;
+      const cards = [...document.querySelectorAll<HTMLLIElement>('.people-grid li')];
+      const sections = [...document.querySelectorAll<HTMLElement>('.t-era')];
+      query.addEventListener('input', () => {
+        const q = query.value.toLowerCase().replace(/\s/g, '');
+        let count = 0;
+        for (const c of cards) {
+          const ok = !q || (c.dataset.text ?? '').includes(q);
+          c.hidden = !ok;
+          if (ok) count++;
+        }
+        for (const s of sections) {
+          const visible = s.querySelectorAll('.people-grid li:not([hidden])').length;
+          s.hidden = visible === 0;
+          const label = s.querySelector('[data-count]');
+          if (label) label.textContent = `${visible}명`;
+          const toc = document.querySelector<HTMLAnchorElement>(`.t-toc a[href$="#${s.id}"]`);
+          if (toc) toc.hidden = visible === 0;
+        }
+        (document.querySelector('#p-count') as HTMLElement).textContent = `${count}명`;
+        (document.querySelector('#p-empty') as HTMLElement).hidden = count > 0;
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+---
+// 인물마다 정적 페이지 (/person/<id>/): 새로고침·공유해도 같은 인물 화면이 열린다.
+import AppLayout from '../../layouts/App.astro';
+import { loadDataset } from '../../data/load.ts';
+
+export function getStaticPaths() {
+  const { dataset } = loadDataset();
+  return dataset.people.map((p) => ({ params: { id: p.id } }));
+}
+
+const { id } = Astro.params;
+---
+
+<AppLayout initialId={null} initialPersonId={id} />

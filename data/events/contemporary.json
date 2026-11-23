@@ -1,0 +1,2741 @@
+{
+  "era": "contemporary",
+  "events": [
+    {
+      "id": "liberation",
+      "title": "8·15 광복",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1945,
+          "month": 8,
+          "day": 15
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "일본이 연합국에 무조건 항복하면서 우리 민족이 일제의 식민 지배에서 벗어났다. 독립운동의 결실이었지만, 연합국의 승리로 이루어져 이후 국제 정세에 크게 영향을 받았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "geonjun"
+        },
+        {
+          "type": "followed_by",
+          "target": "division-occupation"
+        },
+        {
+          "type": "related",
+          "target": "provisional-government",
+          "note": "독립운동의 결실"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "geonjun",
+      "title": "조선 건국 준비 위원회 결성",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1945,
+          "month": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "여운형과 안재홍이 광복 직후 조직해 치안을 유지하고 지부를 전국에 세웠다. 이후 조선 인민 공화국을 선포했으나 미군정은 이를 인정하지 않았다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yeo-unhyeong"
+      ]
+    },
+    {
+      "id": "division-occupation",
+      "title": "38도선 분할과 미·소 군정",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1945,
+          "month": 9
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "외교"
+      ],
+      "summary": "일본군의 무장 해제를 명분으로 38도선 이남에는 미군, 이북에는 소련군이 들어와 군정을 실시했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "moscow-conference"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "moscow-conference",
+      "title": "모스크바 3국 외상 회의",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1945,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교",
+        "정치"
+      ],
+      "summary": "미국, 영국, 소련 외상이 임시 민주 정부 수립, 미·소 공동 위원회 설치, 최대 5년간의 신탁 통치를 결정했다. 신탁 통치를 둘러싸고 좌우 대립이 격해졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "moscow",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "joint-commission"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "joint-commission",
+      "title": "미·소 공동 위원회",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1946,
+          "month": 3
+        },
+        "end": {
+          "year": 1947,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "임시 정부 수립을 논의하려고 열렸으나, 협의 대상 단체를 정하는 문제로 미국과 소련이 맞서 두 차례 모두 결렬되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "jeongeup-speech"
+        },
+        {
+          "type": "led_to",
+          "target": "un-resolution"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "jeongeup-speech",
+      "title": "이승만의 정읍 발언",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1946,
+          "month": 6,
+          "day": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "1차 미·소 공동 위원회가 결렬되자 이승만이 정읍에서 남한만이라도 임시 정부를 세워야 한다고 주장했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "left-right-coalition"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "syngman-rhee"
+      ]
+    },
+    {
+      "id": "left-right-coalition",
+      "title": "좌우 합작 운동",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1946,
+          "month": 7
+        },
+        "end": {
+          "year": 1947,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "여운형과 김규식이 좌우 합작 위원회를 만들고 좌우 합작 7원칙을 발표했다. 여운형이 암살되면서(1947.7) 사실상 끝났다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "yeo-unhyeong",
+        "kim-gyusik"
+      ]
+    },
+    {
+      "id": "un-resolution",
+      "title": "유엔 총회의 남북한 총선거 결의",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1947,
+          "month": 11
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "미국이 한국 문제를 유엔에 넘겨 인구 비례에 따른 남북한 총선거가 결의되었다. 소련이 유엔 한국 임시 위원단의 입북을 거부하자 유엔 소총회는 선거가 가능한 지역에서만 총선거를 실시하기로 했다(1948.2).",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "south-north-negotiation"
+        },
+        {
+          "type": "led_to",
+          "target": "may-10-election"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "jeju-4-3",
+      "title": "제주 4·3 사건",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 4,
+          "day": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "남한만의 단독 선거에 반대하는 무장봉기와 이를 진압하는 과정에서 많은 제주도민이 희생되었다. 2000년 특별법이 만들어져 진상 규명과 명예 회복이 이루어지고 있다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "jeju",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "south-north-negotiation",
+      "title": "남북 협상",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "김구와 김규식이 남한만의 단독 정부 수립에 반대하며 평양에 가서 북한 지도자들과 회담했으나 성과를 거두지 못했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-gu",
+        "kim-gyusik",
+        "kim-ilsung"
+      ]
+    },
+    {
+      "id": "may-10-election",
+      "title": "5·10 총선거",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 5,
+          "day": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "우리 역사상 최초의 민주적 보통 선거로 제헌 국회의원을 뽑았다. 김구, 김규식 등 남북 협상파와 좌익 세력은 참여하지 않았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "constitution-1948"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "constitution-1948",
+      "title": "제헌 헌법 공포",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 7,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "제헌 국회가 민주 공화국 체제의 헌법을 만들었다. 대통령은 국회에서 간접 선거로 뽑도록 했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "rok-government"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "rok-government",
+      "title": "대한민국 정부 수립",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 8,
+          "day": 15
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "이승만이 초대 대통령으로 취임하고 대한민국 정부가 수립되었다. 유엔은 같은 해 12월 대한민국을 한반도의 유일한 합법 정부로 승인했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "dprk-founding"
+        },
+        {
+          "type": "followed_by",
+          "target": "banmin-law"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "syngman-rhee"
+      ]
+    },
+    {
+      "id": "dprk-founding",
+      "title": "조선 민주주의 인민 공화국 수립",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 9,
+          "day": 9
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "북한에서 김일성을 수상으로 하는 정권이 수립되었다. 이로써 남북 분단이 굳어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-ilsung"
+      ]
+    },
+    {
+      "id": "banmin-law",
+      "title": "반민족 행위 처벌법과 반민 특위",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 9
+        },
+        "end": {
+          "year": 1949
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "친일파를 처벌하기 위해 반민족 행위 처벌법을 만들고 반민족 행위 특별 조사 위원회를 두었다. 이승만 정부의 비협조와 방해로 성과를 거두지 못하고 해체되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "yeosu-suncheon",
+      "title": "여수·순천 10·19 사건",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1948,
+          "month": 10,
+          "day": 19
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치",
+        "사회"
+      ],
+      "summary": "여수에 주둔하던 국군 일부가 제주 4·3 사건 진압 명령을 거부하며 봉기했다. 진압 과정에서 많은 민간인이 희생되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "yeosu",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "jeju-4-3"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "land-reform",
+      "title": "농지 개혁법 제정",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1949,
+          "month": 6
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "경제"
+      ],
+      "summary": "유상 매수·유상 분배 방식으로 농지를 농민에게 나누어 주었다. 한 가구당 3정보를 넘는 농지를 국가가 사들여 소작농에게 분배해 자영농이 늘어났다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jo-bongam"
+      ]
+    },
+    {
+      "id": "korean-war",
+      "title": "6·25 전쟁",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1950,
+          "month": 6,
+          "day": 25
+        },
+        "end": {
+          "year": 1953,
+          "month": 7,
+          "day": 27
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "북한군이 38도선 전역에서 기습 남침하면서 시작된 전쟁이다. 유엔군과 중국군이 참전해 국제전으로 번졌고, 3년 넘게 이어지다 정전 협정으로 멈추었다. 수많은 인명 피해와 이산가족이 생겼다.",
+      "detail": "북한군은 사흘 만에 서울을 점령하고 낙동강까지 내려왔다. 유엔군의 인천 상륙 작전으로 전세가 뒤집혀 압록강까지 진격했으나, 중국군의 참전으로 다시 밀려났다(1·4 후퇴).\n\n1951년 중반부터 전선은 지금의 휴전선 부근에서 고착되었고, 2년 동안 정전 회담이 이어졌다. 전쟁으로 남북한 모두 국토가 황폐해졌으며, 분단이 굳어지고 남북의 적대감이 깊어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "mutual-defense-treaty"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-ilsung"
+      ]
+    },
+    {
+      "id": "incheon-landing",
+      "title": "인천 상륙 작전",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1950,
+          "month": 9,
+          "day": 15
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "맥아더가 지휘한 유엔군이 인천에 상륙해 북한군의 보급로를 끊었다. 이어 서울을 되찾고(9.28) 38도선을 넘어 북진했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "incheon",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "korean-war"
+        },
+        {
+          "type": "followed_by",
+          "target": "chinese-intervention"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "macarthur"
+      ]
+    },
+    {
+      "id": "chinese-intervention",
+      "title": "중국군 참전",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1950,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "유엔군이 압록강까지 진격하자 중국군이 대규모로 참전했다. 전세가 다시 뒤집혀 흥남 철수(1950.12)와 1·4 후퇴(1951)가 이어졌다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "korean-war"
+        },
+        {
+          "type": "followed_by",
+          "target": "heungnam-evacuation"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "heungnam-evacuation",
+      "title": "흥남 철수",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1950,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "중국군에 포위된 유엔군과 국군이 흥남항에서 배로 철수했다. 이때 피란민 약 10만 명도 함께 남쪽으로 내려왔다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "heungnam",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "korean-war"
+        },
+        {
+          "type": "followed_by",
+          "target": "jan-4-retreat"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "jan-4-retreat",
+      "title": "1·4 후퇴",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1951,
+          "month": 1,
+          "day": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "전쟁"
+      ],
+      "summary": "중국군의 공세로 서울을 다시 내주었다. 이후 전선은 38도선 부근에서 밀고 밀리는 공방전을 이어 갔다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "korean-war"
+        },
+        {
+          "type": "followed_by",
+          "target": "armistice"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "armistice",
+      "title": "정전 협정 체결",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1953,
+          "month": 7,
+          "day": 27
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "전쟁",
+        "외교"
+      ],
+      "summary": "2년에 걸친 회담 끝에 유엔군, 북한군, 중국군 대표가 판문점에서 정전 협정을 맺었다. 군사 분계선과 비무장 지대가 설정되었다. 이승만 정부는 협정에 서명하지 않았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "panmunjom",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "korean-war"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "mutual-defense-treaty",
+      "title": "한·미 상호 방위 조약",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1953,
+          "month": 10,
+          "day": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "정전 뒤 한국과 미국이 맺은 군사 동맹 조약으로, 미군의 한국 주둔 근거가 되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "balchwi-amendment",
+      "title": "발췌 개헌",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1952,
+          "month": 7,
+          "day": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "전쟁 중 임시 수도 부산에서 이승만 정부가 대통령 직선제 개헌안을 강압적으로 통과시켰다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "busan",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "sasaoip-amendment"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "syngman-rhee"
+      ]
+    },
+    {
+      "id": "sasaoip-amendment",
+      "title": "사사오입 개헌",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1954,
+          "month": 11,
+          "day": 29
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "초대 대통령에 한해 중임 제한을 없애는 개헌안이 1표 차로 부결되자, 사사오입(반올림) 논리를 내세워 통과를 선포했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "april-revolution",
+          "note": "이승만 장기 집권에 대한 불만"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "syngman-rhee"
+      ]
+    },
+    {
+      "id": "march-15-election",
+      "title": "3·15 부정 선거",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1960,
+          "month": 3,
+          "day": 15
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "자유당이 이기붕을 부통령에 당선시키려고 사전 투표, 공개 투표 등 대규모 부정 선거를 저질렀다. 마산에서 규탄 시위가 일어났다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "masan",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "april-revolution"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-juyeol"
+      ]
+    },
+    {
+      "id": "april-revolution",
+      "title": "4·19 혁명",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1960,
+          "month": 4,
+          "day": 19
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "3·15 부정 선거와 김주열 학생의 죽음에 분노한 학생과 시민이 전국에서 시위를 벌였다. 대학 교수단 시위에 이어 이승만이 하야했다. 학생과 시민이 독재 정권을 무너뜨린 민주 혁명이다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "chang-myon-cabinet"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "syngman-rhee",
+        "kim-juyeol"
+      ]
+    },
+    {
+      "id": "chang-myon-cabinet",
+      "title": "장면 내각 출범",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1960,
+          "month": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "헌법을 의원 내각제와 양원제로 바꾸고 민주당의 장면이 국무총리가 되었다. 민주당 내 분열로 정국이 불안정했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "may-16-coup"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "chang-myon"
+      ]
+    },
+    {
+      "id": "may-16-coup",
+      "title": "5·16 군사 정변",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1961,
+          "month": 5,
+          "day": 16
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "박정희를 중심으로 한 군인들이 정변을 일으켜 정권을 잡았다. 국가 재건 최고 회의를 구성하고, 1963년 박정희가 대통령에 당선되었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "five-year-plan"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "chang-myon",
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "five-year-plan",
+      "title": "경제 개발 5개년 계획",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1962
+        },
+        "calendar": "solar",
+        "end": {
+          "year": 1996
+        }
+      },
+      "importance": "core",
+      "categories": [
+        "경제"
+      ],
+      "summary": "1962년부터 정부 주도로 수출 중심의 경제 개발을 추진했다. 1960년대에는 경공업, 1970년대에는 중화학 공업을 육성해 고도 성장을 이루었고, 계획은 1996년 7차까지 이어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "gyeongbu-expressway"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "vietnam-dispatch",
+      "title": "베트남 파병",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1964,
+          "month": 9
+        },
+        "end": {
+          "year": 1973,
+          "month": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교",
+        "전쟁"
+      ],
+      "summary": "미국의 요청으로 국군을 베트남에 보냈다. 브라운 각서로 경제·군사 원조를 받았으나 많은 사상자가 생겼다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "korea-japan-normalization",
+      "title": "한·일 기본 조약 (국교 정상화)",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1965,
+          "month": 6,
+          "day": 22
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교"
+      ],
+      "summary": "경제 개발 자금 마련을 위해 일본과 국교를 맺었다. 식민 지배에 대한 사과와 배상 없이 협정을 맺어 굴욕 외교라는 비판을 받았고, 체결 전 6·3 시위(1964)가 일어났다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "tokyo",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "saemaeul-movement",
+      "title": "새마을 운동 시작",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1970,
+          "month": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "사회"
+      ],
+      "summary": "근면·자조·협동을 내걸고 농촌의 생활 환경을 개선하는 운동으로 시작해 도시로 확대되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "gyeongbu-expressway",
+      "title": "경부 고속 국도 개통",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1970,
+          "month": 7,
+          "day": 7
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "서울과 부산을 잇는 고속 국도가 개통되어 전국이 1일 생활권에 가까워졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "start"
+        },
+        {
+          "place": "busan",
+          "role": "end"
+        }
+      ],
+      "route": true,
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "jeon-taeil",
+      "title": "전태일 분신",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1970,
+          "month": 11,
+          "day": 13
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "사회"
+      ],
+      "summary": "서울 평화 시장의 재단사 전태일이 \"근로 기준법을 지켜라\"라고 외치며 분신했다. 열악한 노동 환경에 대한 사회적 관심을 일으켰다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "jeon-taeil"
+      ]
+    },
+    {
+      "id": "july-4-joint-statement",
+      "title": "7·4 남북 공동 성명",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1972,
+          "month": 7,
+          "day": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교",
+        "정치"
+      ],
+      "summary": "남북이 분단 이후 처음으로 자주·평화·민족적 대단결의 통일 3대 원칙에 합의했다. 그러나 남북 모두 독재 체제 강화에 이용했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "yusin"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "yusin",
+      "title": "유신 체제 성립",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1972,
+          "month": 10,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "박정희 정부가 비상계엄을 선포하고 국회를 해산한 뒤 유신 헌법을 만들었다. 대통령을 통일 주체 국민 회의에서 간선으로 뽑고, 긴급 조치권 등 막강한 권한을 주었다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "bu-ma-uprising"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "bu-ma-uprising",
+      "title": "부·마 민주 항쟁",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1979,
+          "month": 10,
+          "day": 16
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "야당 총재 김영삼의 국회의원 제명을 계기로 부산과 마산에서 유신 체제에 반대하는 대규모 시위가 일어났다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "busan",
+          "role": "main"
+        },
+        {
+          "place": "masan",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "oct-26"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-youngsam"
+      ]
+    },
+    {
+      "id": "oct-26",
+      "title": "10·26 사태",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1979,
+          "month": 10,
+          "day": 26
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "박정희 대통령이 중앙정보부장 김재규에게 피살되면서 유신 체제가 무너졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "dec-12"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ]
+    },
+    {
+      "id": "dec-12",
+      "title": "12·12 사태",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1979,
+          "month": 12,
+          "day": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "전두환, 노태우 등 신군부 세력이 군사 반란을 일으켜 군권을 장악했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "may-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "chun-doohwan",
+        "roh-taewoo"
+      ]
+    },
+    {
+      "id": "may-18",
+      "title": "5·18 민주화 운동",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1980,
+          "month": 5,
+          "day": 18
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "신군부의 비상계엄 전국 확대와 민주 인사 체포에 맞서 광주 시민들이 저항했다. 계엄군의 무력 진압으로 많은 시민이 희생되었다. 관련 기록물은 유네스코 세계 기록 유산이다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "gwangju",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "june-democratic-struggle",
+          "note": "1980년대 민주화 운동의 밑거름"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "chun-doohwan"
+      ]
+    },
+    {
+      "id": "june-democratic-struggle",
+      "title": "6월 민주 항쟁",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1987,
+          "month": 6,
+          "day": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "정치"
+      ],
+      "summary": "박종철 고문치사 사건과 전두환 정부의 4·13 호헌 조치에 맞서 \"호헌 철폐, 독재 타도\"를 외치는 시위가 전국에서 일어났다. 6·29 민주화 선언으로 대통령 직선제 개헌이 이루어졌다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "seoul-olympics"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "chun-doohwan",
+        "bak-jongcheol"
+      ]
+    },
+    {
+      "id": "seoul-olympics",
+      "title": "서울 올림픽 개최",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1988,
+          "month": 9,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화",
+        "외교"
+      ],
+      "summary": "160개국이 참가한 하계 올림픽을 서울에서 열었다. 냉전 시기 동서 양 진영이 함께 참가했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "roh-taewoo"
+      ]
+    },
+    {
+      "id": "northern-policy",
+      "title": "북방 외교 (한·소, 한·중 수교)",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1990,
+          "month": 9
+        },
+        "end": {
+          "year": 1992,
+          "month": 8
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "노태우 정부가 사회주의 국가와 관계를 넓혀 소련(1990), 중국(1992)과 국교를 맺었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "related",
+          "target": "un-joint-entry"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "roh-taewoo"
+      ]
+    },
+    {
+      "id": "un-joint-entry",
+      "title": "남북한 유엔 동시 가입",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1991,
+          "month": 9,
+          "day": 17
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교"
+      ],
+      "summary": "남한과 북한이 유엔에 동시에 가입했다. 같은 해 12월 남북 기본 합의서와 한반도 비핵화 공동 선언을 채택했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "basic-agreement"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "roh-taewoo"
+      ]
+    },
+    {
+      "id": "basic-agreement",
+      "title": "남북 기본 합의서",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1991,
+          "month": 12,
+          "day": 13
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "남북이 서로의 체제를 인정하고 상호 불가침, 교류·협력을 약속한 합의서다. 남북 관계를 \"통일을 지향하는 과정에서 잠정적으로 형성되는 특수 관계\"로 규정했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "roh-taewoo"
+      ]
+    },
+    {
+      "id": "local-autonomy",
+      "title": "지방 자치제 전면 실시",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1995,
+          "month": 6,
+          "day": 27
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "1991년 지방 의회 선거에 이어 1995년 지방 자치 단체장까지 주민이 직접 뽑는 선거가 실시되었다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-youngsam"
+      ]
+    },
+    {
+      "id": "real-name-finance",
+      "title": "금융 실명제 실시",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1993,
+          "month": 8,
+          "day": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "김영삼 정부가 대통령 긴급 명령으로 모든 금융 거래를 실제 이름으로 하도록 해 부정부패와 지하 경제를 줄이려 했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-youngsam"
+      ]
+    },
+    {
+      "id": "imf-crisis",
+      "title": "외환 위기 (IMF 구제 금융)",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1997,
+          "month": 12,
+          "day": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "경제"
+      ],
+      "summary": "외환 보유고가 바닥나자 국제 통화 기금(IMF)에서 구제 금융을 받았다. 기업 구조 조정과 대량 실업이 뒤따랐고, 금 모으기 운동 등을 거쳐 2001년 지원금을 모두 갚았다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-youngsam",
+        "kim-daejung"
+      ]
+    },
+    {
+      "id": "geumgangsan-tour",
+      "title": "금강산 관광 시작",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1998,
+          "month": 11,
+          "day": 18
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교",
+        "경제"
+      ],
+      "summary": "김대중 정부의 대북 화해 협력 정책(햇볕 정책) 아래 바닷길로 금강산 관광이 시작되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "geumgangsan",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "june-15-declaration"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-daejung"
+      ]
+    },
+    {
+      "id": "june-15-declaration",
+      "title": "6·15 남북 공동 선언",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 2000,
+          "month": 6,
+          "day": 15
+        },
+        "calendar": "solar"
+      },
+      "importance": "core",
+      "categories": [
+        "외교"
+      ],
+      "summary": "김대중 대통령과 김정일 국방 위원장이 평양에서 분단 이후 첫 남북 정상 회담을 열었다. 남측의 연합제와 북측의 낮은 단계 연방제 사이의 공통성을 인정하고, 이산가족 방문과 경제 협력에 합의했다.",
+      "tags": [
+        "수능빈출"
+      ],
+      "locations": [
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "kaesong-complex"
+        },
+        {
+          "type": "followed_by",
+          "target": "oct-4-declaration"
+        }
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "kim-daejung",
+        "kim-jongil"
+      ]
+    },
+    {
+      "id": "world-cup-2002",
+      "title": "한·일 월드컵 개최",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 2002,
+          "month": 5,
+          "day": 31
+        },
+        "end": {
+          "year": 2002,
+          "month": 6,
+          "day": 30
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "문화"
+      ],
+      "summary": "한국과 일본이 함께 월드컵을 열었다. 한국 대표팀이 4강에 올랐고 전국에서 거리 응원이 펼쳐졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": []
+    },
+    {
+      "id": "kaesong-complex",
+      "title": "개성 공업 지구 가동",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 2004,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "외교"
+      ],
+      "summary": "6·15 남북 공동 선언에 따른 경제 협력 사업으로, 남측의 자본과 기술, 북측의 토지와 노동력을 결합한 공단이 개성에서 가동되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "kaesong-complex",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "roh-moohyun"
+      ]
+    },
+    {
+      "id": "oct-4-declaration",
+      "title": "10·4 남북 정상 선언",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 2007,
+          "month": 10,
+          "day": 4
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교"
+      ],
+      "summary": "노무현 대통령과 김정일 국방 위원장이 두 번째 남북 정상 회담을 열고 6·15 공동 선언의 구체적 실천과 서해 평화 협력 특별 지대 설치 등에 합의했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ],
+      "people": [
+        "roh-moohyun",
+        "kim-jongil"
+      ]
+    },
+    {
+      "id": "progressive-party-incident",
+      "title": "진보당 사건",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1958,
+          "month": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "평화 통일론을 내세운 진보당의 조봉암이 간첩 혐의로 처형되었다. 2011년 재심에서 무죄가 선고되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "april-revolution",
+          "note": "이승만 정부의 독재 강화"
+        }
+      ],
+      "people": [
+        "syngman-rhee",
+        "jo-bongam"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "june-3-protest",
+      "title": "6·3 시위",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1964,
+          "month": 6,
+          "day": 3
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "대학생과 시민들이 굴욕적인 한·일 회담에 반대하며 시위를 벌였고, 정부는 비상계엄을 선포했다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "led_to",
+          "target": "korea-japan-normalization"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "three-term-amendment",
+      "title": "3선 개헌",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1969,
+          "month": 10
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "박정희 정부가 대통령이 세 번까지 연임할 수 있도록 헌법을 고쳤다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "yusin"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "heavy-industry",
+      "title": "중화학 공업화 선언",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1973,
+          "month": 1
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "정부가 철강, 조선, 기계, 석유 화학 등 중화학 공업을 집중 육성하겠다고 밝혔다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "five-year-plan"
+        },
+        {
+          "type": "followed_by",
+          "target": "pohang-steel"
+        }
+      ],
+      "people": [
+        "park-chunghee"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "pohang-steel",
+      "title": "포항 제철 준공",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1973,
+          "month": 7
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "일관 제철소인 포항 종합 제철이 첫 쇳물을 생산했다. 중화학 공업 발전의 기반이 되었다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "pohang",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "export-10b",
+      "title": "수출 100억 달러 달성",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1977,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "1964년 1억 달러를 넘긴 지 13년 만에 수출 100억 달러를 달성했다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "part_of",
+          "target": "five-year-plan"
+        }
+      ],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "separated-families-1985",
+      "title": "첫 남북 이산가족 고향 방문",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1985,
+          "month": 9
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "외교",
+        "사회"
+      ],
+      "summary": "분단 이후 처음으로 남북 이산가족 고향 방문단과 예술 공연단이 서울과 평양을 오갔다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        },
+        {
+          "place": "pyongyang-city",
+          "role": "main"
+        }
+      ],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "three-lows",
+      "title": "3저 호황",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1986
+        },
+        "end": {
+          "year": 1988
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제"
+      ],
+      "summary": "저달러, 저유가, 저금리의 3저 현상으로 수출이 크게 늘어 처음으로 무역 흑자를 냈다.",
+      "tags": [],
+      "locations": [],
+      "relations": [],
+      "people": [],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "june-29-declaration",
+      "title": "6·29 민주화 선언",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1987,
+          "month": 6,
+          "day": 29
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "정치"
+      ],
+      "summary": "6월 민주 항쟁에 밀려 여당 대표 노태우가 대통령 직선제 개헌을 약속했다. 10월 5년 단임 직선제 헌법이 만들어졌다.",
+      "tags": [],
+      "locations": [
+        {
+          "place": "seoul",
+          "role": "main"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "june-democratic-struggle"
+        }
+      ],
+      "people": [
+        "roh-taewoo"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    },
+    {
+      "id": "oecd",
+      "title": "OECD 가입",
+      "era": "contemporary",
+      "date": {
+        "start": {
+          "year": 1996,
+          "month": 12
+        },
+        "calendar": "solar"
+      },
+      "importance": "detail",
+      "categories": [
+        "경제",
+        "외교"
+      ],
+      "summary": "경제 협력 개발 기구(OECD)에 가입했다. 이듬해 외환 위기를 맞았다.",
+      "tags": [],
+      "locations": [],
+      "relations": [
+        {
+          "type": "followed_by",
+          "target": "imf-crisis"
+        }
+      ],
+      "people": [
+        "kim-youngsam"
+      ],
+      "sources": [
+        {
+          "name": "위키백과: 한국사 연표",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C"
+        },
+        {
+          "name": "나무위키: 대학수학능력시험/한국사 영역/연표",
+          "url": "https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C"
+        }
+      ]
+    }
+  ]
+}

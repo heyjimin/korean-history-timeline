@@ -1,0 +1,65 @@
+[
+  {
+    "id": "prehistory",
+    "name": "선사 시대",
+    "start": -700000,
+    "end": -2333,
+    "color": "#76675a"
+  },
+  {
+    "id": "gojoseon",
+    "name": "고조선",
+    "start": -2333,
+    "end": -108,
+    "color": "#8f4a2a"
+  },
+  {
+    "id": "three-kingdoms",
+    "name": "삼국 시대",
+    "start": -57,
+    "end": 676,
+    "color": "#9a5b1f"
+  },
+  {
+    "id": "north-south-states",
+    "name": "남북국 시대",
+    "start": 676,
+    "end": 935,
+    "color": "#5c7a24"
+  },
+  {
+    "id": "goryeo",
+    "name": "고려",
+    "start": 918,
+    "end": 1392,
+    "color": "#25745a"
+  },
+  {
+    "id": "joseon",
+    "name": "조선",
+    "start": 1392,
+    "end": 1863,
+    "color": "#2f5aa0"
+  },
+  {
+    "id": "modern-era",
+    "name": "근대",
+    "start": 1863,
+    "end": 1910,
+    "color": "#6b4aa0"
+  },
+  {
+    "id": "japanese-occupation",
+    "name": "일제 강점기",
+    "start": 1910,
+    "end": 1945,
+    "color": "#55565f"
+  },
+  {
+    "id": "contemporary",
+    "name": "현대",
+    "start": 1945,
+    "end": null,
+    "color": "#b0365a"
+  }
+]

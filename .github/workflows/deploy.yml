@@ -1,0 +1,61 @@
+name: 검증 및 배포
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# 같은 브랜치의 새 실행이 오면: PR 검사는 이전 것을 취소하고, 배포는 끝까지 마친다
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      # 공유 미리보기 이미지 캐시 (내용이 같은 사건은 다시 그리지 않는다)
+      - uses: actions/cache@v6
+        with:
+          path: node_modules/.cache/kht-og
+          key: og-${{ hashFiles('data/**', 'src/lib/og.ts') }}
+          restore-keys: og-
+      # 데이터 검증이 실패하면 여기서 멈춘다 (npm run build 안에서도 한 번 더 돈다)
+      - run: npm run validate
+      - run: npm test
+      - run: npx tsc --noEmit
+      - id: pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v6
+      - run: npm run build
+        env:
+          SITE_URL: ${{ steps.pages.outputs.origin }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path || '/' }}
+      - if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

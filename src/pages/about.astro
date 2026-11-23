@@ -1,0 +1,70 @@
+---
+// 소개 페이지: 사이트가 무엇인지, 쓰는 법, 데이터 출처와 라이선스
+import { loadDataset } from '../data/load.ts';
+import HeadCommon from '../components/HeadCommon.astro';
+import Logo from '../components/Logo.tsx';
+import SiteNav from '../components/SiteNav.astro';
+import { SITE } from '../site.ts';
+import '../styles/table.css';
+
+const { dataset } = loadDataset();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const total = dataset.events.length;
+const core = dataset.events.filter((e) => e.importance === 'core').length;
+const relations = dataset.events.reduce((s, e) => s + e.relations.length, 0);
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <HeadCommon title={`소개 | ${SITE.name}`} description={SITE.description} />
+  </head>
+  <body>
+    <header class="t-header">
+      <a class="t-brand" href={`${base}/`}><Logo size={24} /> {SITE.name}</a>
+      <SiteNav current="about" />
+    </header>
+    <main class="t-main about">
+      <p class="about-kicker">{SITE.tagline}</p>
+      <h1>{SITE.name} 소개</h1>
+      <p class="t-lead">{SITE.description}</p>
+
+      <ul class="about-stats">
+        <li><strong>{total}</strong> 사건</li>
+        <li><strong>{core}</strong> 핵심 사건</li>
+        <li><strong>{dataset.places.length}</strong> 장소</li>
+        <li><strong>{dataset.people.length}</strong> 인물</li>
+        <li><strong>{relations}</strong> 연결 관계</li>
+      </ul>
+
+      <h2>이렇게 볼 수 있어요</h2>
+      <ul>
+        <li><strong>타임라인</strong> — 가로는 시간, 세로는 분야(정치·제도, 전쟁·외교, 경제·사회, 문화)입니다. 축소하면 핵심 사건만, 확대하면 상세 사건까지 보입니다.</li>
+        <li><strong>지도</strong> — 타임라인에 보이는 기간의 사건이 일어난 곳을 보여 줍니다. 배경 지도는 단순·지형·위성·상세 가운데 고를 수 있습니다.</li>
+        <li><strong>연결 관계</strong> — 고른 사건의 원인과 결과, 앞뒤 사건, 하위 사건을 그래프로 보여 줍니다. 타임라인에서 사건을 더블클릭해도 열립니다.</li>
+        <li><strong>검색</strong> — <kbd>/</kbd> 키로 검색창에 들어갈 수 있고, 사건·인물·장소를 초성(예: ㅇㅈㅇㄹ)으로도 찾습니다.</li>
+        <li><strong><a href={`${base}/people/`}>인물</a></strong> — 주요 인물을 시대별로 모아 볼 수 있고, 인물을 누르면 그 인물의 사건을 타임라인과 지도에서 강조해 보여 줍니다.</li>
+        <li><strong><a href={`${base}/table/`}>표로 보기</a></strong> — 전체 연표를 시대별 표로 볼 수 있고 인쇄하기 좋습니다.</li>
+      </ul>
+
+      <h2>데이터에 대해</h2>
+      <ul>
+        <li>사건 목록과 연도는 <a href="https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%B0%ED%91%9C">위키백과 한국사 연표</a>와 <a href="https://namu.wiki/w/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98/%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%98%81%EC%97%AD/%EC%97%B0%ED%91%9C">나무위키 수능 한국사 연표</a>를 참고했습니다.</li>
+        <li>조선 시대까지의 월·일은 대부분 음력이고, 1896년부터는 양력입니다.</li>
+        <li>삼국 시대의 건국 연도 등은 『삼국사기』, 『삼국유사』 같은 기록을 따른 것입니다.</li>
+        <li>지금 데이터는 검수 중인 초안입니다. 틀린 내용이 있을 수 있으니 중요한 내용은 교과서와 함께 확인해 주세요.</li>
+      </ul>
+
+      <h2>라이선스와 출처</h2>
+      <ul>
+        <li>사건 설명과 데이터: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko">CC BY-NC-SA 4.0</a> (출처를 밝히면 비영리로 자유롭게 쓸 수 있습니다)</li>
+        <li>소스 코드: MIT 라이선스 · <a href="https://github.com/heyjimin/korean-history-timeline">GitHub 저장소</a></li>
+        <li>지도: <a href="https://openfreemap.org">OpenFreeMap</a> © <a href="https://www.openmaptiles.org/">OpenMapTiles</a>, 데이터 © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> 기여자, 지형·위성 이미지 © Esri</li>
+        <li>글꼴: <a href="https://github.com/orioncactus/pretendard">Pretendard</a> (SIL Open Font License)</li>
+      </ul>
+    </main>
+    <footer class="t-footer">
+      콘텐츠 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko">CC BY-NC-SA 4.0</a> · 코드 MIT
+    </footer>
+  </body>
+</html>

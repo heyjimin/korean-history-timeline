@@ -85,7 +85,7 @@ export default function GraphView({ events, eras, selectedId, onSelect, visible 
   const elRef = useRef<HTMLDivElement>(null);
   const cyRef = useRef<Core | null>(null);
   const [ready, setReady] = useState(false);
-  const [depth, setDepth] = useState<1 | 2>(1);
+  const [depth, setDepth] = useState<1 | 2>(2);
   // 칸 크기가 바뀔 때마다 늘어나 배치를 다시 한다
   const [sizeKey, setSizeKey] = useState(0);
   const onSelectRef = useRef(onSelect);
